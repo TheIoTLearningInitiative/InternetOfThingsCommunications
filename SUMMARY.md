@@ -1,6 +1,6 @@
 # Summary
 
 * [Introduction](documentation/Introduction.md)
-* Connectivity
+* [Connectivity](documentation/Connectivity.md)
 * Protocols
 

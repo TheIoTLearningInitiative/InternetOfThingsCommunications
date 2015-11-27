@@ -7,13 +7,16 @@ Protocols
 
 > Mosquitto is an open source (BSD licensed) message broker that implements the MQ Telemetry Transport protocol versions 3.1 and 3.1.1. MQTT provides a lightweight method of carrying out messaging using a publish/subscribe model.
 
-[Mosquitto Homepage](http://mosquitto.org/)
-
 ## MQTT
 
 > MQTT (Message Queue Telemetry Transport) is a light-weight protocol used for Machine to Machine (M2M) communication. MQTT used a publish/subscribe message forwarding model built on top of TCP/IP protocol, according to this protocol architecture, it's possible to have as many subscribers we want without limit, but only one publisher.
 
->MQTT is perfect for mobile and embbeded devices because of its lightwight (in processing, memory management and bandwith) messaging protocol
+>MQTT (a.k.a. mosquitto) is perfect for mobile and embedded devices because of its lightweight (in processing, memory management and bandwidth) messaging protocol. 
+
+> For this protocol, notice that it lacks of encryption in its base, otherwise it would add an important overhead to the connection. Security at the application level requires a lot of work.
+
+[Mosquitto Homepage](http://mosquitto.org/)
+
 
 #### Mosquitto Intel® Edison Setup
 
@@ -75,7 +78,10 @@ See output for the following command
 
 > Constrained Application Protocol (CoAP) is a software protocol intended to be used in very simple electronics devices that allows them to communicate interactively over the Internet. It is particularly targeted for small low power sensors, switches, valves and similar components that need to be controlled or supervised remotely, through standard Internet networks ... *From Wikipedia, the free encyclopedia*
 
-https://www.artik.io/blog/2015/iot-101-networks
+>CoAp has a request/response model protocol, clients can make GET, PUT, POST and DELETE requests to resources. Please notice that CoAp does not have SSL/TLS ecryption isn't available over UDP, CoAP makes use of DTLS (Datagram Transport Layer Security). The default level of encryption is equivalent to a 3,072-bit RSA key. Also, CoAp lacks of a publish-subscribe message queue.
+
+
+works
 
 ## 6lowpan
 

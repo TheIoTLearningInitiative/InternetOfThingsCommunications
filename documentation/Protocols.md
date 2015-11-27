@@ -11,6 +11,8 @@ Protocols
 
 > MQTT (Message Queue Telemetry Transport) is a light-weight protocol used for Machine to Machine (M2M) communication. MQTT used a publish/subscribe message forwarding model built on top of TCP/IP protocol, according to this protocol architecture, it's possible to have as many subscribers we want without limit, but only one publisher.
 
+![Source: Sparkfun.com](MQTT.PNG)
+
 >MQTT (a.k.a. mosquitto) is perfect for mobile and embedded devices because of its lightweight (in processing, memory management and bandwidth) messaging protocol. 
 
 > For this protocol, notice that it lacks of encryption in its base, otherwise it would add an important overhead to the connection. Security at the application level requires a lot of work.
@@ -85,7 +87,7 @@ https://www.artik.io/blog/2015/iot-101-networks
 
 ## 6lowpan
 
-Tbd
+> 6lowpan (IPv6 over Low power WPAN) 
 
 ## RPL
 

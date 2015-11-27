@@ -81,7 +81,7 @@ See output for the following command
 >CoAp has a request/response model protocol, clients can make GET, PUT, POST and DELETE requests to resources. Please notice that CoAp does not have SSL/TLS ecryption isn't available over UDP, CoAP makes use of DTLS (Datagram Transport Layer Security). The default level of encryption is equivalent to a 3,072-bit RSA key. Also, CoAp lacks of a publish-subscribe message queue.
 
 
-works
+https://www.artik.io/blog/2015/iot-101-networks
 
 ## 6lowpan
 

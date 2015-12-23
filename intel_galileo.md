@@ -1,2 +1,2 @@
-# Intel Galileo}
+# Intel Galileo
 

@@ -1,7 +1,7 @@
 SandBox
 ==
 
-This section contains all data that is missing. You might find it is not structed, that is ok, important thing is not to forget about it, structure will come some time later
+This section contains all data that is missing. You might find it not structed, that is ok, important thing is not to forget about it, structure will come some time later
 
 ## Protocols
 

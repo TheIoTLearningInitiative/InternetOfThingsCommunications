@@ -3,7 +3,7 @@ SandBox
 
 ## Terminology
 
-### Publish/Subscribe Model
+### MQ Publish/Subscribe Model
 
 [IBM Interconnect 2015 - Publish/subscribe in an IBM MQ network ](https://www.youtube.com/watch?v=iBq3oUBZ-9s)
 

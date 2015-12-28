@@ -5,7 +5,7 @@ This section contains all data that is missing. You might find it is not structe
 
 ## Protocols
 
-REST Protocols
+REST
 
 ## Terminology
 

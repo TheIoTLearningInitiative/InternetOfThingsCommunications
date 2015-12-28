@@ -37,4 +37,4 @@ Big time to work on for
 
 MQTT
 AMQ
-z-Wave
+Z-Wave

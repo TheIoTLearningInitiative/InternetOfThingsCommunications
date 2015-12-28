@@ -36,6 +36,6 @@ Publications
 Big time to work on for
 
 - REST
-- MQTT
-- AMQP
+- MQTT 
+- AMQP MQ Light
 - Z-Wave

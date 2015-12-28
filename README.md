@@ -1,6 +1,6 @@
 Internet of Things Communications
 ==
 
-ToDo
+ToDo for Trainer
 
 

@@ -1,6 +1,6 @@
 Internet of Things Communications
 ==
 
-ToDo for Trainer
+To Explain for Trainer during this Hands-On
 
 - Explain Publish/Subscribe Model

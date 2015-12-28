@@ -36,5 +36,5 @@ Publications
 Big time to work on for
 
 MQTT
-AMQ
+AMQP
 Z-Wave

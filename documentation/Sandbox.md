@@ -37,5 +37,5 @@ Big time to work on for
 
 - REST
 - MQTT 
-- AMQP MQ Light
+- AMQP using IBM MQ Light
 - Z-Wave

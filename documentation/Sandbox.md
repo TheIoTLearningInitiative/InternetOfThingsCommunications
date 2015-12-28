@@ -37,6 +37,5 @@ Big time to work on for
 
 - REST
 - MQTT using [Post Z-Wave Data to Node Red](https://www.ibm.com/developerworks/community/blogs/cee6c09c-a315-4b04-ad14-57d6a60fa8bb/entry/post_z_wave_data_to_node_red?lang=en)
-
 - AMQP using IBM MQ Light
 - Z-Wave

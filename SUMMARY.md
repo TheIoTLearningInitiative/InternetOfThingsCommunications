@@ -4,5 +4,5 @@
 * [Connectivity](documentation/Connectivity.md)
 * [Protocols](documentation/Protocols.md)
 * [Intel Galileo](intel_galileo.md)
-* SandBox
+* [SandBox](documentation/Sandbox.md)
 

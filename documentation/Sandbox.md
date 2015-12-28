@@ -22,3 +22,5 @@ Components
 Publications
 
 - Always Succesful? Might, if Durable and Persistent
+
+- [IBM Interconnect 2015 - Publish/subscribe in an IBM MQ network ](https://www.youtube.com/watch?v=iBq3oUBZ-9s)

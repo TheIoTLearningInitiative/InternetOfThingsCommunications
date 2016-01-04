@@ -1,6 +1,15 @@
 # Intel Galileo
 
 
+The Intel Galileo board is the first "Arduino Certified" board, it differs from a regular arduino because the Intel Galileo uses a Intel Quark System On a Chip, 32 bit with 256 MB of RAM. The Intel Galileo has Arduino headers so you can plug in and continue with your Arduino projects. In addition, the Intel Galileo has an Ethernet port, a 3.5mm jack, USB client to connect the Galileo to a PC for uploading code, and a USB host for peripherals, even Mini PCI Express on the back of the board.
+
+Galielo runs Linux by default burned in the ROM of the board, but it can boot from a mini SD card if you want another version of Linux.
+
+
+
+![](https://cdn.sparkfun.com/assets/f/0/3/2/5/52e14c29ce395f7d3b8b4567.png)
+
+
 
 
 

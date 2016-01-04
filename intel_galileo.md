@@ -1,18 +1,18 @@
 # Intel Galileo
 
 
-The Intel Galileo board is the first "Arduino Certified" board, it differs from a regular arduino because the Intel Galileo uses a Intel Quark System On a Chip, 32 bit with 256 MB of RAM. The Intel Galileo has Arduino headers so you can plug in and continue with your Arduino projects. In addition, the Intel Galileo has an Ethernet port, a 3.5mm jack, USB client to connect the Galileo to a PC for uploading code, and a USB host for peripherals, even Mini PCI Express on the back of the board.
+The Intel Galileo board is the first "Arduino Certified" board, it differs from a regular Arduino because the Intel Galileo uses a Intel Quark System On a Chip, 32 bit with 256 MB of RAM. The Intel Galileo has Arduino headers so you can plug in and continue with your Arduino projects. In addition, the Intel Galileo has an Ethernet port, a 3.5mm jack, USB client to connect the Galileo to a PC for uploading code, and a USB host for peripherals, even Mini PCI Express on the back of the board.
 
-Galielo runs Linux by default burned in the ROM of the board, but it can boot from a mini SD card if you want another version of Linux.
+Galileo runs Linux by default burned in the ROM of the board, but it can boot from a mini SD card if you want another version of Linux.
 
 
 ![](https://cdn.sparkfun.com/assets/f/0/3/2/5/52e14c29ce395f7d3b8b4567.png)
 
 
-To upload code and use our Intel Galileo we just need to plug in the USB client to our computer and with Arduino do a sketch and compile it, this process will compile the code and transfer it to our board. For more examples on how to create sketches please visit the [Ardui Installation Page](https://software.intel.com/en-us/get-started-arduino-install).
+To upload code and use our Intel Galileo we just need to plug in the USB client to our computer and with Arduino do a sketch and compile it, this process will compile the code and transfer it to our board. For more examples on how to create sketches please visit the [Arduino Installation Page](https://software.intel.com/en-us/get-started-arduino-install).
 
 
-To use the terminal, we have to plug in a 3.5 mm cable into de 3.5 mm jack port, to db9 and db9 to USB. Most operating systems will not recognize the board if is just connected through db9.
+To use the terminal, we have to plug in a 3.5 mm cable into the 3.5 mm jack port, to DB9 and DB9 to USB. Most operating systems will not recognize the board if is just connected through DB9; therefore, a DB9 to USB cable is needed.
 
 
 

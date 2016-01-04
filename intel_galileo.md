@@ -6,10 +6,13 @@ The Intel Galileo board is the first "Arduino Certified" board, it differs from 
 Galielo runs Linux by default burned in the ROM of the board, but it can boot from a mini SD card if you want another version of Linux.
 
 
-
 ![](https://cdn.sparkfun.com/assets/f/0/3/2/5/52e14c29ce395f7d3b8b4567.png)
 
 
+To upload code and use our Intel Galileo we just need to plug in the USB client to our computer and with Arduino do a sketch and compile it, this process will compile the code and transfer it to our board. For more examples on how to create sketches please visit the [Ardui Installation Page](https://software.intel.com/en-us/get-started-arduino-install).
+
+
+To use the terminal, we have to plug in a 3.5 mm cable into de 3.5 mm jack port, to db9 and db9 to USB. Most operating systems will not recognize the board if is just connected through db9.
 
 
 

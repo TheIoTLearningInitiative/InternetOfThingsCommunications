@@ -22,6 +22,11 @@ Middleware
  - NearD NFC
  - Ofono Telephony, 3G, LTE
 
+Frameworks
+ - IoTivity OIC
+ - cURL HTTP Client
+ - microhttpd HTTP Server
+ - mosquitto MQTT
 
 
   

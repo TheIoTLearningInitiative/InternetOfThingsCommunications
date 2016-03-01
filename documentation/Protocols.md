@@ -21,7 +21,6 @@ RS-232, RS-485, Modbus, CAN Bus, 4-20mA
 
 [Mosquitto Homepage](http://mosquitto.org/)
 
-
 #### Mosquitto Intel® Edison Setup
 
 [Building and running Mosquitto MQTT on Intel Edison](https://software.intel.com/en-us/blogs/2015/02/20/building-and-running-mosquitto-mqtt-on-intel-edison)

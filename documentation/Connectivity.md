@@ -14,7 +14,8 @@
 5. Bluetooth
 6. NFC
 
-
 ## Satellite
 > 
+
+## Technologies
 

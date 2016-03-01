@@ -21,3 +21,12 @@
 
 ### Low Range
 
+3G, GPRS, LoRa, Sigfox, 868 MHz, 900 MHz
+
+### Medium Range
+
+ZigBee, 802.15.4
+
+### Short Range
+
+WiFi, RFID, NFC, BlueTooth 4.0

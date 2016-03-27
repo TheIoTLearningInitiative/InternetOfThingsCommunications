@@ -5,6 +5,10 @@ This section contains all data that is missing. You might find it not structed, 
 
 http://ardiri.com/blog/rf_433mhz_radio_communication_with_an_arduino
 
+## Z-Wave
+
+Aeon Labs DSA02203-ZWUS Z-Wave Z-Stick Series 2*
+
 ## ZigBee
 
 Found under Linux Embeeded Application DEvelopment

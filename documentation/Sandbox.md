@@ -7,7 +7,7 @@ http://ardiri.com/blog/rf_433mhz_radio_communication_with_an_arduino
 
 ## ZigBee
 
-Found under Linux Embeeded 
+Found under Linux Embeeded Application DEvelopment
 
 ## ModBus
 

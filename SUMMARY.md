@@ -24,7 +24,7 @@
    * [AllJoyn](documentation/Alljoyn.md)
    * [XMPP](documentation/XMPP.md)
    * [6LoWPAN](documentation/6LowPan.md)
-   * ModBus
+   * [ModBus](documentation/ModBus.md)
 * [Intel Galileo](intel_galileo.md)
 * [SandBox](documentation/Sandbox.md)
 

@@ -16,7 +16,7 @@
    * [Thread](documentation/Thread.md)
    * [HomeKit](documentation/HomeKit.md)
 * [Protocols](documentation/Protocols.md)
-   * Industrial Protocols
+   * [Industrial Protocols](documentation/IndustrialProtocols.md)
    * [MQTT](documentation/MQTT.md)
    * [AMQP](documentation/AMQP.md)
 * [Intel Galileo](intel_galileo.md)

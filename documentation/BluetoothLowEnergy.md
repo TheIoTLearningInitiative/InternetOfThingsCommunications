@@ -5,4 +5,4 @@ Bluetooth Low Energy
 
 - [Wikipedia Bluetooth Profiles](https://en.wikipedia.org/wiki/List_of_Bluetooth_profiles)
 - [Gateway Smart Starter Kit](https://www.bluetooth.com/develop-with-bluetooth/developer-resources-tools/gateway?s=google2016&gclid=Cj0KEQiA3t-2BRCKivi-suDY24gBEiQAX1wiXFnagz0rAOa1bUa8ySwFFisOAraUewlTnmDWuG77-X0aAo128P8HAQ)
-- [Collin's Lab - Bluetooth Low Energy](https://youtu.be/ItV08vGqACM?list=PLjF7R1fz_OOU08_hRcayfVZSmTpBCGJbL)
+- [Collin's Lab Bluetooth Low Energy](https://youtu.be/ItV08vGqACM?list=PLjF7R1fz_OOU08_hRcayfVZSmTpBCGJbL)

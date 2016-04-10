@@ -6,7 +6,7 @@
    * [WiFi](documentation/WiFi.md)
    * [WiFi HaLow](documentation/WiFiHaLow.md)
    * [WiGig](documentation/WiGig.md)
-   * Bluetooth
+   * [Bluetooth](documentation/Bluetooth.md)
    * [Bluetooth Low Energy](documentation/BluetoothLowEnergy.md)
    * [RFID](documentation/RFID.md)
 * [Protocols](documentation/Protocols.md)

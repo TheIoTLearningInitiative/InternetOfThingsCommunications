@@ -11,6 +11,7 @@
    * [Bluetooth Smart Mesh](documentation/BluetoothSmartMesh.md)
    * [LoRa](documentation/LoRa.md)
    * [RFID](documentation/RFID.md)
+   * ZigBee
 * [Protocols](documentation/Protocols.md)
 * [Intel Galileo](intel_galileo.md)
 * [SandBox](documentation/Sandbox.md)

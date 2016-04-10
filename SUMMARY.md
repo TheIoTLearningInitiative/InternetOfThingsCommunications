@@ -18,6 +18,7 @@
 * [Protocols](documentation/Protocols.md)
    * [MQTT](documentation/MQTT.md)
    * [AMQP](documentation/AMQP.md)
+   * Industrial Protocols
 * [Intel Galileo](intel_galileo.md)
 * [SandBox](documentation/Sandbox.md)
 

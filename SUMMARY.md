@@ -3,7 +3,7 @@
 * [Introduction](README.md)
 * [Connectivity](documentation/Connectivity.md)
    * [Telephony](documentation/Telephony.md)
-   * WiFi
+   * [WiFi](documentation/WiFi.md)
    * [Bluetooth Low Energy](documentation/BluetoothLowEnergy.md)
    * [RFID](documentation/RFID.md)
    * WiFi Halow

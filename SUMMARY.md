@@ -13,7 +13,7 @@
    * [RFID](documentation/RFID.md)
    * [ZigBee](documentation/ZigBee.md)
    * [Z-Wave](documentation/ZWave.md)
-   * Thread
+   * [Thread](documentation/Thread.md)
 * [Protocols](documentation/Protocols.md)
 * [Intel Galileo](intel_galileo.md)
 * [SandBox](documentation/Sandbox.md)

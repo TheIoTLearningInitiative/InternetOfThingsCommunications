@@ -19,7 +19,7 @@
    * [Industrial Protocols](documentation/IndustrialProtocols.md)
    * [MQ Telemetry Transport](documentation/MQTT.md)
    * [Advanced Message Queuing Protocol](documentation/AMQP.md)
-   * Weave
+   * [Weave](documentation/Weave.md)
 * [Intel Galileo](intel_galileo.md)
 * [SandBox](documentation/Sandbox.md)
 

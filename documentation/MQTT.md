@@ -57,7 +57,7 @@ Quality of Services
 
 - https://www.cloudmqtt.com/
 - http://test.mosquitto.org/
-- iot.eclipse.org
+- http://iot.eclipse.org
 
 ### Mosquitto
 

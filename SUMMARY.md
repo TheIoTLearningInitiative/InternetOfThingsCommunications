@@ -26,6 +26,7 @@
    * [6LoWPAN](documentation/6LowPan.md)
    * [ModBus](documentation/ModBus.md)
    * [Others](documentation/Others.md)
+   * Lightweight M2M
 * [Intel Galileo](intel_galileo.md)
 * [SandBox](documentation/Sandbox.md)
 

@@ -58,7 +58,8 @@ Quality of Services
 
 - [Cloud MQTT Hosted broker for the Internet of Things](https://www.cloudmqtt.com/)
 - [Mosquitto](http://test.mosquitto.org/)
-- [Eclipse MQTT)](http://iot.eclipse.org/getting-started#tutorials)
+- [Eclipse MQTT](http://iot.eclipse.org/getting-started#tutorials)
+- [MQTT Dashboard](broker.mqtt-dashboard.com)
 
 ### Mosquitto
 

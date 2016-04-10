@@ -22,7 +22,7 @@
    * [Weave](documentation/Weave.md)
    * [Constrained Application Protocol](documentation/ConstrainedApplicationProtocol.md)
    * [AllJoyn](documentation/Alljoyn.md)
-   * XMPP
+   * [XMPP](documentation/XMPP.md)
 * [Intel Galileo](intel_galileo.md)
 * [SandBox](documentation/Sandbox.md)
 

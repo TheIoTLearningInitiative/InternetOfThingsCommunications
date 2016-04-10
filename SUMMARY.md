@@ -20,6 +20,7 @@
    * [MQ Telemetry Transport](documentation/MQTT.md)
    * [Advanced Message Queuing Protocol](documentation/AMQP.md)
    * [Weave](documentation/Weave.md)
+   * Constrained Application Protocol
 * [Intel Galileo](intel_galileo.md)
 * [SandBox](documentation/Sandbox.md)
 

@@ -14,7 +14,7 @@
    * [ZigBee](documentation/ZigBee.md)
    * [Z-Wave](documentation/ZWave.md)
    * [Thread](documentation/Thread.md)
-   * HomeKit
+   * [HomeKit](documentation/HomeKit.md)
 * [Protocols](documentation/Protocols.md)
 * [Intel Galileo](intel_galileo.md)
 * [SandBox](documentation/Sandbox.md)

@@ -41,6 +41,7 @@ Quality of Services
 - Apache ActiveMQ
 - RabbitMQ
 - [Adafruit MQTT API](https://learn.adafruit.com/adafruit-io/mqtt-api)
+- [Microsoft Azure](http://iotmakerdendashboard.azurewebsites.net/install/publish.htm)
 
 ### Clients
 

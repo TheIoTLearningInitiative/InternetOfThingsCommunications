@@ -8,8 +8,8 @@
    * [WiGig](documentation/WiGig.md)
    * [Bluetooth](documentation/Bluetooth.md)
    * [Bluetooth Low Energy](documentation/BluetoothLowEnergy.md)
-   * LoRa
    * [Bluetooth Smart Mesh](documentation/BluetoothSmartMesh.md)
+   * LoRa
    * [RFID](documentation/RFID.md)
 * [Protocols](documentation/Protocols.md)
 * [Intel Galileo](intel_galileo.md)

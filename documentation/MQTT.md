@@ -3,7 +3,15 @@ MQTT
 
 ## MQTT
 
-> MQTT (Message Queue Telemetry Transport) is a light-weight protocol used for Machine to Machine (M2M) communication. MQTT used a publish/subscribe message forwarding model built on top of TCP/IP protocol, according to this protocol architecture, it's possible to have as many subscribers we want without limit, but only one publisher.
+> MQTT is a light-weight protocol used for Machine to Machine (M2M) communication. MQTT used a publish/subscribe message forwarding model built on top of TCP/IP protocol.
+
+> MQTT is a machine-to-machine (M2M)/"Internet of Things" connectivity protocol. It was designed as an extremely lightweight publish/subscribe messaging transport. It is useful for connections with remote locations where a small code footprint is required and/or network bandwidth is at a premium.
+
+- [MQTT Homepage](http://mqtt.org/)
+- [MQTT Protocol Specification](http://www.ibm.com/developerworks/library/ws-mqtt/)
+- [HiveMQ MQTT Essentials: Part 1 – Introducing MQTT](http://www.hivemq.com/blog/mqtt-essentials-part-1-introducing-mqtt)
+- [HiveMQ MQTT Essentials Wrap-Up](http://www.hivemq.com/blog/mqtt-essentials-wrap-up)
+
 
 ![Source: Sparkfun.com](MQTT.PNG)
 

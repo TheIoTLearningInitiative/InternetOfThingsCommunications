@@ -1,4 +1,4 @@
-MQTT
+ MQ Telemetry Transport
 ==
 
 ## MQTT

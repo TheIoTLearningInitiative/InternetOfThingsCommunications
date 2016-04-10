@@ -21,7 +21,7 @@
    * [Advanced Message Queuing Protocol](documentation/AMQP.md)
    * [Weave](documentation/Weave.md)
    * [Constrained Application Protocol](documentation/ConstrainedApplicationProtocol.md)
-   * AllJoyn
+   * [AllJoyn](documentation/Alljoyn.md)
 * [Intel Galileo](intel_galileo.md)
 * [SandBox](documentation/Sandbox.md)
 

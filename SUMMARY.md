@@ -10,6 +10,7 @@
    * [Bluetooth Low Energy](documentation/BluetoothLowEnergy.md)
    * [Bluetooth Smart Mesh](documentation/BluetoothSmartMesh.md)
    * [RFID](documentation/RFID.md)
+   * LoRa
 * [Protocols](documentation/Protocols.md)
 * [Intel Galileo](intel_galileo.md)
 * [SandBox](documentation/Sandbox.md)

@@ -17,7 +17,7 @@
    * [HomeKit](documentation/HomeKit.md)
 * [Protocols](documentation/Protocols.md)
    * [MQTT](documentation/MQTT.md)
-   * AMQP
+   * [AMQP](documentation/AMQP.md)
 * [Intel Galileo](intel_galileo.md)
 * [SandBox](documentation/Sandbox.md)
 

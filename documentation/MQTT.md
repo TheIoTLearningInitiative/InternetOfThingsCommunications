@@ -84,5 +84,6 @@ As publisher
 
 See output for the following command
 
+```sh
     root@platform:~# mosquitto_sub -h test.mosquitto.org -t "#" -v
-
+```

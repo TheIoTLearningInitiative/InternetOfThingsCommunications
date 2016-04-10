@@ -17,8 +17,9 @@
    * [HomeKit](documentation/HomeKit.md)
 * [Protocols](documentation/Protocols.md)
    * [Industrial Protocols](documentation/IndustrialProtocols.md)
-   * [ MQ Telemetry Transport](documentation/MQTT.md)
+   * [MQ Telemetry Transport](documentation/MQTT.md)
    * [Advanced Message Queuing Protocol](documentation/AMQP.md)
+   * Weave
 * [Intel Galileo](intel_galileo.md)
 * [SandBox](documentation/Sandbox.md)
 

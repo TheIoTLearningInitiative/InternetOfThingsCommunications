@@ -14,7 +14,6 @@ Bluetooth Low Energy
 
 - [Estimote](http://estimote.com/)
 
-
 ### BlueTooth @ Intel® Edison
 
 - [Intel® Edison Bluetooth Guide](http://www.intel.com/support/edison/sb/CS-035381.htm)

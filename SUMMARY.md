@@ -16,6 +16,7 @@
    * [Thread](documentation/Thread.md)
    * [HomeKit](documentation/HomeKit.md)
 * [Protocols](documentation/Protocols.md)
+   * MQTT
 * [Intel Galileo](intel_galileo.md)
 * [SandBox](documentation/Sandbox.md)
 

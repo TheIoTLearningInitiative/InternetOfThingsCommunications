@@ -56,7 +56,8 @@ Quality of Services
 ## Brokers
 
 - https://www.cloudmqtt.com/
-- 
+- http://test.mosquitto.org/
+- iot.eclipse.org
 
 ### Mosquitto
 

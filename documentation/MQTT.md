@@ -15,6 +15,44 @@ MQTT
 
 ![Source: Sparkfun.com](MQTT.PNG)
 
+### Features
+
+Core Messages
+
+- Connect
+- Disconnect
+- Publish
+- Subscribe
+- Unsubscribe
+
+Quality of Services
+
+- 0, 1, 2
+
+[HiveMQ MQTT Essentials Part 6: Quality of Service 0, 1 & 2](http://www.hivemq.com/mqtt-essentials-part-6-mqtt-quality-of-service-levels/)
+
+### Server Implementations
+
+- IBM MQ
+- IBM Microbroker
+- RSMB
+- Mosquitto
+- MQTT.js
+- Apache ActiveMQ
+- RabbitMQ
+- [Adafruit MQTT API](https://learn.adafruit.com/adafruit-io/mqtt-api)
+
+### Clients
+
+- C/C++/C#
+- Java
+- Perl
+- Python
+- PHP
+- Rex
+- Ruby
+- Arduino
+
 ### Mosquitto
 
 > Mosquitto is an open source (BSD licensed) message broker that implements the MQ Telemetry Transport protocol versions 3.1 and 3.1.1. MQTT provides a lightweight method of carrying out messaging using a publish/subscribe model.

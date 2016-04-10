@@ -12,7 +12,7 @@
    * [LoRa](documentation/LoRa.md)
    * [RFID](documentation/RFID.md)
    * [ZigBee](documentation/ZigBee.md)
-   * Z-Wave
+   * [Z-Wave](documentation/Zwave.md)
 * [Protocols](documentation/Protocols.md)
 * [Intel Galileo](intel_galileo.md)
 * [SandBox](documentation/Sandbox.md)

@@ -41,35 +41,46 @@ MQTT
 
 #### Mosquitto Applications
 
+```sh
     root@platform:~# mosquitto
     root@platform:~# mosquitto_sub
     root@platform:~# mosquitto_pub
+```
 
 #### Mosquitto Demo Temperature Gauge
 
 Go to http://test.mosquitto.org/gauge/ and execute
 
+```sh
     root@platform:~# mosquitto_pub -h test.mosquitto.org -t temp/random -m 23.0
-
+```
 ####  Mosquitto MQTT Server/Broker
 
 As subscriber
 
+```sh
     root@galileo:~# mosquitto_sub -h test.mosquitto.org -p 1883 -t workshop/galileo
     root@edison:~# mosquitto_sub -h test.mosquitto.org -p 1883 -t workshop/edison
+```
 
 As publisher
 
+```sh
     root@galileo:~# mosquitto_pub -h test.mosquitto.org -p 1883 -t workshop/galileo -m "Hello Galileo Operators!"
     root@edison:~# mosquitto_pub -h test.mosquitto.org -p 1883 -t workshop/edison -m "Hello Edison Operators!"
+```
 
 As subscriber
 
+```sh
     root@platform:~# mosquitto_sub -h test.mosquitto.org -p 1883 -t workshop/all
+```
 
 As publisher
 
+```sh
     root@platform:~# mosquitto_pub -h test.mosquitto.org -p 1883 -t workshop/all -m "Hello All Operators!"
+```
 
 See output for the following command
 

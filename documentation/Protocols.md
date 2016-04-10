@@ -3,12 +3,6 @@ Protocols
 
 - [1](http://codesanswer.com/question/261384-iot-request-response-protocol)
 
-## Industrial Protocols
-
-RS-232, RS-485, Modbus, CAN Bus, 4-20mA
-
-
-
 ## Constrained Application Protocol (CoAP)
 
 > Constrained Application Protocol (CoAP) is a software protocol intended to be used in very simple electronics devices that allows them to communicate interactively over the Internet. It is particularly targeted for small low power sensors, switches, valves and similar components that need to be controlled or supervised remotely, through standard Internet networks ... *From Wikipedia, the free encyclopedia*

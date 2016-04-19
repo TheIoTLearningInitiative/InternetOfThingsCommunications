@@ -32,7 +32,10 @@ Frameworks
  - microhttpd HTTP Server
  - mosquitto MQTT
 
-
+Industrial
+ - CAN bus
+ - EtherCAT
+ - Profinet
 
 
   

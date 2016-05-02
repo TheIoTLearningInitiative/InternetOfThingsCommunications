@@ -28,5 +28,6 @@ root@edison:~# pip install aiocoap
 Downloading/unpacking aiocoap
 Installing collected packages: aiocoap
 Successfully installed aiocoap
-Cleaning up...                                           
+Cleaning up...
+root@edison:~# 
 ```

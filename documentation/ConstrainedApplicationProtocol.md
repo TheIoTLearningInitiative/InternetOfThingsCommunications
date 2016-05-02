@@ -17,7 +17,7 @@ root@edison:~# npm install coap
 ��├��─��─ coap-packet@0.1.13
 ��├��─��─ debug@2.2.0 (ms@0.7.1)
 ��├��─��─ lru-cache@4.0.1 (pseudomap@1.0.2, yallist@2.0.0)
-��├��─��─ fastseries@1.7.2 (xtend@4.0.1, reusify@1.0.1)                                                
+��├��─��─ fastseries@1.7.2 (xtend@4.0.1, reusify@1.0.1)
 ��└��─��─ readable-stream@2.0.6 (process-nextick-args@1.0.6, inherits@2.0.1, util-deprecate@1.0.2, str)
 root@edison:~# 
 ```

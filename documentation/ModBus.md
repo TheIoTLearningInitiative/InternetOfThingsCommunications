@@ -7,3 +7,4 @@ ModBus
 
 - [ModBus on Intel Edison](https://software.intel.com/en-us/blogs/2015/11/27/modbus-on-intelr-edison)
 - [ModBus on Intel Galileo](https://www.cooking-hacks.com/documentation/tutorials/modbus-module-shield-tutorial-for-arduino-raspberry-pi-intel-galileo/)
+- [LibModBus](http://libmodbus.org/documentation/)

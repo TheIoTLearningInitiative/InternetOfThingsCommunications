@@ -22,3 +22,11 @@ root@edison:~# npm install coap
 ��└��─��─ readable-stream@2.0.6 (process-nextick-args@1.0.6, inherits@2.0.1, util-deprecate@1.0.2, str)
 root@edison:~# 
 ```
+
+```sh
+root@edison:~# pip install aiocoap
+Downloading/unpacking aiocoap
+Installing collected packages: aiocoap
+Successfully installed aiocoap
+Cleaning up...                                           
+```

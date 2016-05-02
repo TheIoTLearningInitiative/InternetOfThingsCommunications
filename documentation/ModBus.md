@@ -5,6 +5,7 @@ ModBus
 
 > Since Modbus protocol is just a messaging structure, it is independent of the underlying physical layer. It is traditionally implemented using RS232, RS422, or RS485. The Request. The function code in the request tells the addressed slave device what kind of action to perform.
 
+- [LibModbus Homepage](http://libmodbus.org/)
 - [ModBus on Intel Edison](https://software.intel.com/en-us/blogs/2015/11/27/modbus-on-intelr-edison)
 - [ModBus on Intel Galileo](https://www.cooking-hacks.com/documentation/tutorials/modbus-module-shield-tutorial-for-arduino-raspberry-pi-intel-galileo/)
 - [LibModBus](http://libmodbus.org/documentation/)

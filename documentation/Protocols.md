@@ -2,7 +2,7 @@ Protocols
 ==
 
 - [1](http://codesanswer.com/question/261384-iot-request-response-protocol)
-- [](http://techbus.safaribooksonline.com/book/information-technology-and-software-development/9781119994350)
+- [2](http://techbus.safaribooksonline.com/book/information-technology-and-software-development/9781119994350)
 
 
 ## 6lowpan

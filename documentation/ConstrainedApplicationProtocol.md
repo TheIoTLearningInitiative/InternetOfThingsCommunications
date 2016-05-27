@@ -9,6 +9,7 @@ Constrained Application Protocol
 - [Npm Iopa-Coap](https://www.npmjs.com/package/iopa-coap)
 - [Npm Coap](https://www.npmjs.com/package/coap)
 - [Constrained Application Protocol (CoAP)](http://tools.ietf.org/html/draft-ietf-core-coap-18)
+- [Firefox](https://addons.mozilla.org/en-US/firefox/addon/copper-270430/)
 
 ```sh
 root@edison:~# npm install coap

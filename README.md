@@ -1,9 +1,8 @@
-Internet of Things Communications
-==
+# Internet of Things Communications
 
 ## M2M
 
-
+Definition to provide a background, as an antecesor of IoT Comms
 
 ## Open Geospatial Consortium
 

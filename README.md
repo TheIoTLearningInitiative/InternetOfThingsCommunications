@@ -9,8 +9,6 @@ Basics of IoT Communication from [Architecting the Internet of Things by Microso
 - Notifications: Information flowing from other systems to a device (group) for conveying status changes
 
 
-
-
 ## M2M
 
 Definition to provide a background, as an antecesor of IoT Comms

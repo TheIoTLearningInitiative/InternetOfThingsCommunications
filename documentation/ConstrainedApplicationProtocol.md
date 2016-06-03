@@ -11,7 +11,7 @@ Constrained Application Protocol
 - [Constrained Application Protocol (CoAP)](http://tools.ietf.org/html/draft-ietf-core-coap-18)
 - [Firefox Copper Cu](https://addons.mozilla.org/en-US/firefox/addon/copper-270430/)
 - [Working with bottlenecks: CoAP and MQTT](http://learninginternetofthings.com/bottlenecks-coap-mqtt/)
-- [](https://youtu.be/4bSr5x5gKvA?list=PLgyFKd2HIZlZNsrWXyE4kgLDo_tyLpvDW)
+- [Constrained Application Protocol (CoAP) Tutorial](https://youtu.be/4bSr5x5gKvA?list=PLgyFKd2HIZlZNsrWXyE4kgLDo_tyLpvDW)
 
 ```sh
 root@edison:~# npm install coap

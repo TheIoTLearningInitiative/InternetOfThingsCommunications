@@ -1,5 +1,16 @@
 # Internet of Things Communications
 
+
+Basics of IoT Communication from [Architecting the Internet of Things by Microsoft @ TechEd North America](https://www.youtube.com/watch?v=ZMHQu_X0Ijk)
+
+- Telemetry: Information flowing from a device to other systems for conveying status of device and environment
+- Inquiries: Requests from devices looking to gather required information or to initiate activities, I Am Ok!
+- Commands: Command from other systems to a device or a group of devices to perform specific activities
+- Notifications: Information flowing from other systems to a device (group) for conveying status changes
+
+
+
+
 ## M2M
 
 Definition to provide a background, as an antecesor of IoT Comms

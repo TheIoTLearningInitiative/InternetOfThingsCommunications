@@ -4,6 +4,10 @@
 
 Definition to provide a background, as an antecesor of IoT Comms
 
+## OSI Model
+
+## TCP/IP
+
 ## Open Geospatial Consortium
 
 - [OGC (Open Geospatial Consortium) SensorThings API ](http://ogc-iot.github.io/ogc-iot-api/)

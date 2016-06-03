@@ -6,6 +6,8 @@ Definition to provide a background, as an antecesor of IoT Comms
 
 ## OSI Model
 
+
+
 ## TCP/IP
 
 ## Open Geospatial Consortium

@@ -1,6 +1,10 @@
 Internet of Things Communications
 ==
 
+## M2M
+
+
+
 ## Open Geospatial Consortium
 
 - [OGC (Open Geospatial Consortium) SensorThings API ](http://ogc-iot.github.io/ogc-iot-api/)

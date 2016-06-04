@@ -6,6 +6,6 @@
 
 # XBee
 
->  [Wikipedia](https://en.wikipedia.org/wiki/XBee)
+> XBee is the brand name of a family of form factor compatible radio modules from Digi International.  [Wikipedia](https://en.wikipedia.org/wiki/XBee)
 
 - [XBees Rocket into Space](https://www.faludi.com/2015/08/24/xbees-rocket-into-space/)

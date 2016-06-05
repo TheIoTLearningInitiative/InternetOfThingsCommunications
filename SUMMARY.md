@@ -27,7 +27,7 @@
    * [ModBus](documentation/ModBus.md)
    * [Others](documentation/Others.md)
    * [Lightweight M2M](documentation/LightweightM2M.md)
-* Libraries
+* [Libraries](documentation/Libraries.md)
 * [Intel Galileo](documentation/IntelGalileo.md)
 * [SandBox](documentation/Sandbox.md)
 

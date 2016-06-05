@@ -5,7 +5,8 @@
 
 > The 6LoWPAN concept originated from the idea that "the Internet Protocol could and should be applied even to the smallest devices" and that low-power devices with limited processing capabilities should be able to participate in the Internet of Things. Wikipedia
 
-[6LoWPAN Interoperability](http://tools.ietf.org/html/draft-daniel-6lowpan-interoperability-01)
+- [6LoWPAN Interoperability](http://tools.ietf.org/html/draft-daniel-6lowpan-interoperability-01)
+- [Open IoT Summit 6LoWPAN: An Open IoT Networking Protocol](http://events.linuxfoundation.org/sites/events/files/slides/6lowpan-openiot-2016.pdf)
 
 ## Examples
 

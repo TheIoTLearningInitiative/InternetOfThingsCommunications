@@ -29,4 +29,5 @@
    * [Lightweight M2M](documentation/LightweightM2M.md)
 * [Intel Galileo](intel_galileo.md)
 * [SandBox](documentation/Sandbox.md)
+* Libraries
 

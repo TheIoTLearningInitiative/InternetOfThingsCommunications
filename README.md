@@ -2,6 +2,7 @@
 
 
 - [Avoid the Silos and Help Build the True Internet of Things](http://events.linuxfoundation.org/sites/events/files/slides/Avoid%20the%20Silos%20and%20Build%20the%20True%20Internet%20of%20Things.pdf)
+- [A Resource Framework for the Internet of Things] (http://events.linuxfoundation.org/sites/events/files/slides/Resource%20Framework%20for%20the%20IoT%20San%20Diego%20Final.pdf)
 
 Basics of IoT Communication from [Architecting the Internet of Things by Microsoft @ TechEd North America](https://www.youtube.com/watch?v=ZMHQu_X0Ijk)
 

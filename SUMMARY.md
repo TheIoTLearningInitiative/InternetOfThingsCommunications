@@ -28,6 +28,7 @@
    * [Others](documentation/Others.md)
    * [Lightweight M2M](documentation/LightweightM2M.md)
 * [Libraries](documentation/Libraries.md)
+   * ZeroMQ
 * [Intel Galileo](documentation/IntelGalileo.md)
 * [SandBox](documentation/Sandbox.md)
 

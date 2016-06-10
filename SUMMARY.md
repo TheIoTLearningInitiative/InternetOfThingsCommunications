@@ -27,7 +27,7 @@
    * [ModBus](documentation/ModBus.md)
    * [Others](documentation/Others.md)
    * [Lightweight M2M](documentation/LightweightM2M.md)
-   * Cap'n Proto
+   * [Cap'n Proto](documentation/CapNProto.md)
 * [Libraries](documentation/Libraries.md)
    * [ZeroMQ](documentation/ZeroMq.md)
 * [Intel Galileo](documentation/IntelGalileo.md)

@@ -7,7 +7,7 @@ Bluetooth
 
 # Bluetooth 5
 
-
+[Bluetooth® 5 quadruples range, doubles speed, increases data broadcasting capacity by 800%](https://www.bluetooth.com/news/pressreleases/2016/06/16/-bluetooth5-quadruples-rangedoubles-speedincreases-data-broadcasting-capacity-by-800)
 
 ### BlueTooth @ Intel® Edison
 

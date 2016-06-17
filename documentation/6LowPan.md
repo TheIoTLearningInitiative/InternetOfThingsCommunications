@@ -7,7 +7,7 @@
 
 - [6LoWPAN Interoperability](http://tools.ietf.org/html/draft-daniel-6lowpan-interoperability-01)
 - [Open IoT Summit 6LoWPAN: An Open IoT Networking Protocol](http://events.linuxfoundation.org/sites/events/files/slides/6lowpan-openiot-2016.pdf)
-- [](http://www.ti.com/lsds/ti/wireless_connectivity/6lowpan/overview.page)
+- [TI Overview for 6LoWPAN](http://www.ti.com/lsds/ti/wireless_connectivity/6lowpan/overview.page)
 
 ## Examples
 

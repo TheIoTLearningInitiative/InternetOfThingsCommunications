@@ -8,4 +8,4 @@
 
 # PyZmq
 
->  [Homepage](https://pypi.python.org/pypi/pyzmq)
+> PyZMQ is the official Python binding for the ZeroMQ Messaging Library [Homepage](https://pypi.python.org/pypi/pyzmq)

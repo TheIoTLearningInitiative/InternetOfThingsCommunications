@@ -7,3 +7,4 @@ Weave
 
 - [Weave Homepage](https://developers.google.com/weave/)
 - [Weave Developers Console](https://weave.google.com/console/u/0/#)
+- [Weave Code Labs Leds](https://codelabs.developers.google.com/codelabs/brillo-weave-leds/)

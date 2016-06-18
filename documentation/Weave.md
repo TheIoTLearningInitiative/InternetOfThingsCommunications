@@ -6,3 +6,4 @@ Weave
 > Weave is a communications platform for IoT devices that enables device setup, phone-to-device-to-cloud communication, and user interaction from mobile devices and the web.
 
 - [Weave Homepage](https://developers.google.com/weave/)
+- [Weave Developers Console](https://weave.google.com/console/u/0/#)

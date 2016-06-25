@@ -7,5 +7,5 @@ LoRa
 
 - [LoRa Homepage](https://www.lora-alliance.org/)
 - [Lora Shield-Long distance wireless 433/868/915Mhz](https://www.tindie.com/products/edwin/lora-shield-long-distance-wireless-433868915mhz-/)
-
+- [Adafruit Feather 32u4 with LoRa Radio Module](https://learn.adafruit.com/adafruit-feather-32u4-radio-with-lora-radio-module)
 

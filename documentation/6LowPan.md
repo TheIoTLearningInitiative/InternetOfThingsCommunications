@@ -12,3 +12,5 @@
 ## Examples
 
 > Setup a 6LoWPAN network. If you’re familiar with 802.15.4 Wireless Sensor Networks, you could easily setup your Raspberry Pi as a border router, that would expose the CoAP server on its radio interface. You could then use e.g. Contiki and the Erbium CoAP client to write a simple app that will run on a mote and talk CoAP to read the temperature, or control the LED! [Using Eclipse Kura, MQTT and CoAP to build a smart greenhouse](http://iot.eclipse.org/java/tutorial/)
+
+- [IPv6 IoT Network - 6LowPAN/Contiki/RPL](https://www.hackster.io/leoribg/ipv6-iot-network-6lowpan-contiki-rpl-45baec?ref=tag&ref_id=home%20automation&offset=2)

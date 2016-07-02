@@ -1,6 +1,7 @@
 SandBox
 ==
 
+https://developer.ibm.com/recipes/tutorials/integrating-watson-iot-platform-with-message-hubkafka/
 This section contains all data that is missing. You might find it not structed, that is ok, important thing is not to forget about it.
 
 http://ardiri.com/blog/rf_433mhz_radio_communication_with_an_arduino

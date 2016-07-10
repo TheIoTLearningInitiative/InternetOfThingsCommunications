@@ -4,8 +4,8 @@
 * [Connectivity](documentation/Connectivity.md)
    * [Telephony](documentation/Telephony.md)
    * [WiFi](documentation/WiFi.md)
+       * [WiFi HaLow](documentation/WiFiHaLow.md)
        * Tbd
-   * [WiFi HaLow](documentation/WiFiHaLow.md)
    * [WiGig](documentation/WiGig.md)
    * [Bluetooth](documentation/Bluetooth.md)
    * [Bluetooth Low Energy](documentation/BluetoothLowEnergy.md)

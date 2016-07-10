@@ -1,6 +1,6 @@
 # Summary
 
-* [Introduction](README.md)
+* [Cover](README.md)
 * [Connectivity](documentation/Connectivity.md)
    * [Telephony](documentation/Telephony.md)
    * [WiFi](documentation/WiFi.md)
@@ -18,6 +18,7 @@
 * [Protocols](documentation/Protocols.md)
    * [Industrial Protocols](documentation/IndustrialProtocols.md)
    * [MQ Telemetry Transport](documentation/MQTT.md)
+       * [Security](documentation/MqttSecurity.md)
    * [Advanced Message Queuing Protocol](documentation/AMQP.md)
    * [Weave](documentation/Weave.md)
    * [Constrained Application Protocol](documentation/ConstrainedApplicationProtocol.md)

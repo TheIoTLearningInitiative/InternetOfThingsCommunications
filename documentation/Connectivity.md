@@ -152,8 +152,3 @@ Connectivity
 > One of the younger standards in the IoT world used by the Google-owned smart home appliances startup Nest. The working group behind the standard includes Samsung, ARM Holdings, Freescale, Silicon Labs, and Big Ass Fans. Thread creates an IP-addressable mesh network with up to 250 devices that supports cloud access and AES encryption.
 
 [Thread Group Homepage](http://threadgroup.org/)
-
-## HomeKit
-
-> HomeKit is supposed to be a platform that unites Apple-made and Apple-certified devices via Wi-Fi and Bluetooth. Apple has already revealed a list of partners that includes iHome, Haier, Withings, Philips, iDevices, Belkin, Honeywell, and Kwikset.
-

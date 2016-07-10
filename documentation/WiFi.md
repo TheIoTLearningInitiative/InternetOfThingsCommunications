@@ -1,5 +1,4 @@
-WiFi
-==
+# WiFi
 
 - IEEE 802.11
 - IEEE 802.11b

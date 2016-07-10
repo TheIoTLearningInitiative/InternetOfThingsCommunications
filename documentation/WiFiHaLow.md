@@ -1,5 +1,4 @@
-WiFi HaLow
-==
+# WiFi HaLow
 
 > Wi-Fi HaLow operates in frequency bands below one gigahertz, offering longer range, lower power connectivity
 

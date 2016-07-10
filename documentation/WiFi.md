@@ -5,6 +5,8 @@
 - IEEE 802.11g
 - IEEE 802.11n
 
+# Links 
+
 - [Intel® Edison Wi-Fi Guide](https://software.intel.com/en-us/articles/intel-edison-wi-fi-guide)
 - [Lowest Power WiFi in the World: Atmel | SMART SAM W25 Wi-Fi for IoT with ARM Cortex-M0+](https://www.youtube.com/watch?v=pOFU0KCly80)
 - [About Mobile Location Analytics Technology](http://smart-places.org/mobile-location-analytics-opt-out/about-mobile-location-analytics-technology/)

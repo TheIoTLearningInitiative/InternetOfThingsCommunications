@@ -147,8 +147,3 @@ Connectivity
 - [Z-Wave Homepage](http://www.z-wave.com/)
 - [Post Z-Wave Data to Node Red](https://www.ibm.com/developerworks/community/blogs/cee6c09c-a315-4b04-ad14-57d6a60fa8bb/entry/post_z_wave_data_to_node_red?lang=en)
 
-## Thread
-
-> One of the younger standards in the IoT world used by the Google-owned smart home appliances startup Nest. The working group behind the standard includes Samsung, ARM Holdings, Freescale, Silicon Labs, and Big Ass Fans. Thread creates an IP-addressable mesh network with up to 250 devices that supports cloud access and AES encryption.
-
-[Thread Group Homepage](http://threadgroup.org/)

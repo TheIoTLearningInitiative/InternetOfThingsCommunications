@@ -1,6 +1,7 @@
 # Summary
 
 * [Cover](README.md)
+* Summary
 * About This Training
 * [Connectivity](documentation/Connectivity.md)
    * [Telephony](documentation/Telephony.md)
@@ -43,5 +44,4 @@
    * [ZeroMQ](documentation/ZeroMq.md)
 * [Challenge](documentation/Challenge.md)
 * [SandBox](documentation/Sandbox.md)
-* Summary
 

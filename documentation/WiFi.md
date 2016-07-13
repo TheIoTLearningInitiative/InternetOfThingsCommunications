@@ -2,6 +2,8 @@
 
 > Wi-Fi or WiFi is a technology that allows electronic devices to connect to a wireless LAN (WLAN) network, mainly using the 2.4 gigahertz (12 cm) UHF and 5 gigahertz (6 cm) SHF ISM radio bands. A WLAN is usually password protected, but may be open, which allows any device within its range to access the resources of the WLAN network [Wikipedia](https://en.wikipedia.org/wiki/Wi-Fi)
 
+Wi-Fi Radio Spectrum
+
 - IEEE 802.11
 - IEEE 802.11b
 - IEEE 802.11g

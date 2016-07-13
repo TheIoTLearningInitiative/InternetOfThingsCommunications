@@ -24,7 +24,7 @@
    * [Advanced Message Queuing Protocol](documentation/AMQP.md)
        * RabbitMQ
        * OpenAMQ
-       * ActiveMQ
+       * [ActiveMQ](documentation/ActiveMq.md)
    * [Weave](documentation/Weave.md)
    * [Constrained Application Protocol](documentation/ConstrainedApplicationProtocol.md)
    * [AllJoyn](documentation/Alljoyn.md)

@@ -3,8 +3,7 @@
 * [Cover](README.md)
 * [Summary](SUMMARY.md)
 * About This Training
-   * Objectives
-   * Prerequisites
+   * [Objectives](documentation/Objectives.md)
 * [Connectivity](documentation/Connectivity.md)
    * [Telephony](documentation/Telephony.md)
    * [WiFi](documentation/WiFi.md)

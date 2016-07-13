@@ -9,8 +9,8 @@
        * [WiGig](documentation/WiGig.md)
        * Tbd
    * [Bluetooth](documentation/Bluetooth.md)
+       * [Bluetooth Low Energy](documentation/BluetoothLowEnergy.md)
        * Tbd
-   * [Bluetooth Low Energy](documentation/BluetoothLowEnergy.md)
    * [Bluetooth Smart Mesh](documentation/BluetoothSmartMesh.md)
    * [LoRa](documentation/LoRa.md)
    * [RFID](documentation/RFID.md)

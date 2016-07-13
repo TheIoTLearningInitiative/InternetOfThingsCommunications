@@ -2,10 +2,10 @@
 
 With this step by step challenge you will have a parallel learning experience of Internet of Things and continue with the implementation of functionality on top of the project you have built during the workshop.
 
-1. 
+1. Subsystems, Bluetooth, Hackathon
 2. Serial Communication between Intel Edison and Arduino 101 / Genuino 101
 
-# Subsystems, Bluetooth, Hackathon
+# Subsystems, Bluetooth
 
 Section [Subsystems Bluetooth Hackathon](https://theiotlearninginitiative.gitbooks.io/embedded-linux/content/documentation/HackathonBluetooth.html)
 

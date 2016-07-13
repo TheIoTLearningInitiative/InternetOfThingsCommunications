@@ -4,13 +4,13 @@ With this step by step challenge you will have a parallel learning experience of
 
 1. Tbd
 
-# Bluetooth
+# Subsystems, Bluetooth, Hackathon
 
-Section [Link](url)
+Section [Subsystems Bluetooth Hackathon](https://theiotlearninginitiative.gitbooks.io/embedded-linux/content/documentation/HackathonBluetooth.html)
 
 __Instruction__
 
-> Write a Python application to send some random data from Intel Edison through Bluetooth to an existing Android application (Android BlueTerm Application) using the SPP protocol
+> Implement a function to send the data from functionDataSensor through Bluetooth to an existing Android application (Android BlueTerm Application) using the SPP protocol
 
 # Serial Communication between Intel Edison and Arduino 101 / Genuino 101
 

@@ -8,12 +8,12 @@
 
 > New version of Bluetooth technology delivers “connectionless” IoT, advancing beacon and location-based capabilities in home, enterprise and industrial [Bluetooth® 5 quadruples range, doubles speed, increases data broadcasting capacity by 800%](https://www.bluetooth.com/news/pressreleases/2016/06/16/-bluetooth5-quadruples-rangedoubles-speedincreases-data-broadcasting-capacity-by-800)
 
-### BlueTooth @ Intel® Edison
+# BlueTooth @ Intel® Edison
 
 - [Intel® Edison Bluetooth Guide](http://www.intel.com/support/edison/sb/CS-035381.htm)
 - [Intel® Edison SPP](https://software.intel.com/en-us/articles/connecting-the-intel-edison-board-to-your-android-phone-with-serial-port-profile-spp)
 
-#### Pairing
+## Pairing
 
 ```sh
     root@galileo:~# rfkill unblock bluetooth
@@ -29,7 +29,7 @@
     root@edison:~# ls /dev/rfcomm0
 ```
 
-#### BlueTooth Headsets
+## BlueTooth Headsets
 
 ```sh
     root@edison:~# rfkill unblock bluetooth

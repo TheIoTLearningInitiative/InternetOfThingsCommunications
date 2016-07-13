@@ -7,7 +7,7 @@ With this step by step challenge you will have a parallel learning experience of
 
 # Subsystems, Bluetooth
 
-Section [Subsystems Bluetooth Hackathon](https://theiotlearninginitiative.gitbooks.io/embedded-linux/content/documentation/HackathonBluetooth.html)
+Section [Subsystems Bluetooth](url)
 
 __Instruction__
 

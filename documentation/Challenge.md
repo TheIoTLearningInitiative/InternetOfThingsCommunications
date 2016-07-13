@@ -19,7 +19,7 @@ Section [Link](url)
 
 __Instruction__ 
 
-> Make a basic serial communication between Intel Edison and Arduino 101 / Genuino 101
+> Make a basic serial communication between Intel Edison (Python) and Arduino 101 / Genuino 101 (IDE)
 
 # Title
 

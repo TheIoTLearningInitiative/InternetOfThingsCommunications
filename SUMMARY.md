@@ -6,7 +6,6 @@
    * [WiFi](documentation/WiFi.md)
        * [WiFi HaLow](documentation/WiFiHaLow.md)
        * [WiGig](documentation/WiGig.md)
-       * Tbd
    * [Bluetooth](documentation/Bluetooth.md)
    * [Bluetooth Low Energy](documentation/BluetoothLowEnergy.md)
    * [Bluetooth Smart Mesh](documentation/BluetoothSmartMesh.md)

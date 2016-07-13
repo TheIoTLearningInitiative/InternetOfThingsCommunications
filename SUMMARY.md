@@ -22,7 +22,7 @@
        * [RabbitMQ](documentation/RabbitMq.md)
        * [Security](documentation/MqttSecurity.md)
    * [Advanced Message Queuing Protocol](documentation/AMQP.md)
-       * RabbitMQ
+       * [RabbitMQ](documentation/AmqpRabbitMq.md)
        * OpenAMQ
        * [ActiveMQ](documentation/ActiveMq.md)
    * [Weave](documentation/Weave.md)

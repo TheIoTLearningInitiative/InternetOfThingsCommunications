@@ -31,7 +31,7 @@
    * [Cap'n Proto](documentation/CapNProto.md)
 * [Libraries](documentation/Libraries.md)
    * [ZeroMQ](documentation/ZeroMq.md)
-* Challenge
+* [Challenge](documentation/Challenge.md)
 * [Intel Galileo](documentation/IntelGalileo.md)
 * [SandBox](documentation/Sandbox.md)
 

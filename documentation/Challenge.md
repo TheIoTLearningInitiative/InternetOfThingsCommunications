@@ -4,9 +4,9 @@ With this step by step challenge you will have a parallel learning experience of
 
 1. Tbd
 
-# Subsystems, Bluetooth, Hackathon
+# Bluetooth, Hackathon
 
-Section [Subsystems Bluetooth Hackathon](https://theiotlearninginitiative.gitbooks.io/embedded-linux/content/documentation/HackathonBluetooth.html)
+Section [Link](url)
 
 __Instruction__
 

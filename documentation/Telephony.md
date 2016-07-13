@@ -1,5 +1,9 @@
 # Telephony
 
+# 1G
+
+> 1G (or 1-G) refers to the first generation of wireless telephone technology (mobile telecommunications). These are the analog telecommunications standards that were introduced in the 1980s and continued until being replaced by 2G digital telecommunications. The main difference between the two mobile telephone systems (1G and 2G), is that the radio signals used by 1G networks are analog, while 2G networks are digital. [Wikipedia](https://en.wikipedia.org/wiki/1G)
+
 # 2G
 
 > 2G (or 2-G) is short for second-generation wireless telephone technology. Second-generation 2G cellular telecom networks were commercially launched on the GSM standard in Finland by Radiolinja (now part of Elisa Oyj) in 1991. Three primary benefits of 2G networks over their predecessors were that phone conversations were digitally encrypted; 2G systems were significantly more efficient on the spectrum allowing for far greater mobile phone penetration levels; and 2G introduced data services for mobile, starting with SMS text messages.  [Wikipedia](https://en.wikipedia.org/wiki/2G)

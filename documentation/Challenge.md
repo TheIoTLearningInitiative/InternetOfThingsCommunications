@@ -12,14 +12,14 @@ __Instruction__
 
 > Write a Python application to send some random data from Intel Edison through Bluetooth to an existing Android application (Android BlueTerm Application) using the SPP protocol
 
-# Serial
+
+# Serial Communication between Intel Edison and Arduino 101 / Genuino 101
 
 Section [Link](url)
 
-__Instruction__
+__Instruction__ 
 
-> Communicate Intel Edison and Arduino 101
-
+> Make a basic serial communication between Intel Edison and Arduino 101 / Genuino 101
 
 # Title
 

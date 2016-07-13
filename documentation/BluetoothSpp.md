@@ -1,4 +1,4 @@
-# Bluetooth SPP
+# Bluetooth Serial Port Protocol
 
 Install Android BlueTerm Application 
 

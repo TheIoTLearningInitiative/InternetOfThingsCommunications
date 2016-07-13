@@ -15,7 +15,7 @@
    * [ZigBee](documentation/ZigBee.md)
    * [Z-Wave](documentation/ZWave.md)
        * [Hardware](documentation/ZWaveHardware.md)
-       * Libraries
+       * [Libraries](documentation/ZWaveLibraries.md)
    * [Thread](documentation/Thread.md)
    * [HomeKit](documentation/HomeKit.md)
 * [Protocols](documentation/Protocols.md)

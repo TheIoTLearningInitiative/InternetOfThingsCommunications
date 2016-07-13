@@ -1,7 +1,4 @@
- MQ Telemetry Transport
-==
-
-## MQTT
+# MQ Telemetry Transport
 
 > MQTT is a light-weight protocol used for Machine to Machine (M2M) communication. MQTT used a publish/subscribe message forwarding model built on top of TCP/IP protocol.
 

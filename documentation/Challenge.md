@@ -5,7 +5,7 @@ With this step by step challenge you will have a parallel learning experience of
 1. Subsystems, Bluetooth
 2. Serial Communication between Intel Edison and Arduino 101 / Genuino 101
 
-# Connectivity Bluetooth
+# Connectivity Bluetooth Serial Peripheral Port
 
 Section [Link](url)
 

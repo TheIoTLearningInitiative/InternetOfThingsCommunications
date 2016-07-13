@@ -4,6 +4,7 @@
 * [Summary](SUMMARY.md)
 * About This Training
    * Objectives
+   * Prerequisites
 * [Connectivity](documentation/Connectivity.md)
    * [Telephony](documentation/Telephony.md)
    * [WiFi](documentation/WiFi.md)

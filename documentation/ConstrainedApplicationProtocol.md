@@ -27,6 +27,8 @@ root@edison:~# npm install coap
 root@edison:~# 
 ```
 
+- [The Python CoAP library](https://github.com/chrysn/aiocoap)
+
 ```sh
 root@edison:~# pip install aiocoap
 Downloading/unpacking aiocoap

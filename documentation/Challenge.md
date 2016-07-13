@@ -13,7 +13,7 @@ __Instruction__
 
 > Implement a function to send the data from functionDataSensor through Bluetooth to an existing Android application (Android BlueTerm Application) using the SPP protocol
 
-# Serial Communication between Intel Edison and Arduino 101 / Genuino 101
+# Connectivity Serial
 
 Section [Link](url)
 

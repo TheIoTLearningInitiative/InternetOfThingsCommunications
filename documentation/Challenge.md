@@ -12,6 +12,15 @@ __Instruction__
 
 > Write a Python application to send some random data from Intel Edison through Bluetooth to an existing Android application (Android BlueTerm Application) using the SPP protocol
 
+# Serial
+
+Section [Link](url)
+
+__Instruction__
+
+> Write a Python application to send some random data from Intel Edison through Bluetooth to an existing Android application (Android BlueTerm Application) using the SPP protocol
+
+
 # Title
 
 Section [Link](url)

@@ -49,6 +49,6 @@ Cleaning up...
 root@edison:~# 
 ```
 
-## Copper CU
+# Copper CU
 
 [Firefox Copper Cu](https://addons.mozilla.org/en-US/firefox/addon/copper-270430/)

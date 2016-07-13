@@ -19,7 +19,7 @@
    * [Industrial Protocols](documentation/IndustrialProtocols.md)
    * [MQ Telemetry Transport](documentation/MQTT.md)
        * [Security](documentation/MqttSecurity.md)
-       * Mosquitto
+       * [Mosquitto](documentation/Mosquitto.md)
    * [Advanced Message Queuing Protocol](documentation/AMQP.md)
    * [Weave](documentation/Weave.md)
    * [Constrained Application Protocol](documentation/ConstrainedApplicationProtocol.md)

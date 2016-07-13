@@ -1,7 +1,7 @@
 # Summary
 
 * [Cover](README.md)
-* Summary
+* [Summary](SUMMARY.md)
 * About This Training
 * [Connectivity](documentation/Connectivity.md)
    * [Telephony](documentation/Telephony.md)

@@ -6,4 +6,4 @@
 
 ## ZigBee Compliant Platforms
 
-[](http://www.zigbee.org/zigbee-compliant-platforms/)
+[ZigBee Compliant Platforms](http://www.zigbee.org/zigbee-compliant-platforms/)

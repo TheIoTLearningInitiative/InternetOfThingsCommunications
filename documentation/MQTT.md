@@ -73,21 +73,21 @@ Quality of Services
 ### Mosquitto Intel® Galileo Setup
 
 ```sh
-    root@galileo:~# wget http://mosquitto.org/files/source/mosquitto-1.3.5.tar.gz
-    root@galileo:~# tar xvf mosquitto-1.3.5.tar.gz
-    root@galileo:~# cd mosquitto-1.3.5
-    root@galileo:~# make -j3 WITH_SRV=no
-    root@galileo:~# adduser mosquitto
-    root@galileo:~# cd test/broker
-    root@galileo:~# make -j3 test
-    root@galileo:~# cd ../../
-    root@galileo:~# cp client/mosquitto_pub /usr/bin
-    root@galileo:~# cp client/mosquitto_sub /usr/bin
-    root@galileo:~# cp lib/libmosquitto.so.1 /usr/lib
-    root@galileo:~# cp src/mosquitto /usr/bin
+    root@platform:~# wget http://mosquitto.org/files/source/mosquitto-1.3.5.tar.gz
+    root@platform:~# tar xvf mosquitto-1.3.5.tar.gz
+    root@platform:~# cd mosquitto-1.3.5
+    root@platform:~# make -j3 WITH_SRV=no
+    root@platform:~# adduser mosquitto
+    root@platform:~# cd test/broker
+    root@platform:~# make -j3 test
+    root@platform:~# cd ../../
+    root@platform:~# cp client/mosquitto_pub /usr/bin
+    root@platform:~# cp client/mosquitto_sub /usr/bin
+    root@platform:~# cp lib/libmosquitto.so.1 /usr/lib
+    root@platform:~# cp src/mosquitto /usr/bin
 ```
 
-#### Mosquitto Applications
+### Mosquitto Applications
 
 ```sh
     root@platform:~# mosquitto
@@ -95,27 +95,27 @@ Quality of Services
     root@platform:~# mosquitto_pub
 ```
 
-#### Mosquitto Demo Temperature Gauge
+### Mosquitto Demo Temperature Gauge
 
 Go to http://test.mosquitto.org/gauge/ and execute
 
 ```sh
     root@platform:~# mosquitto_pub -h test.mosquitto.org -t temp/random -m 23.0
 ```
-####  Mosquitto MQTT Server/Broker
+###  Mosquitto MQTT Server/Broker
 
 As subscriber
 
 ```sh
-    root@galileo:~# mosquitto_sub -h test.mosquitto.org -p 1883 -t workshop/galileo
-    root@edison:~# mosquitto_sub -h test.mosquitto.org -p 1883 -t workshop/edison
+    root@platform:~# mosquitto_sub -h test.mosquitto.org -p 1883 -t workshop/galileo
+    root@platform:~# mosquitto_sub -h test.mosquitto.org -p 1883 -t workshop/edison
 ```
 
 As publisher
 
 ```sh
-    root@galileo:~# mosquitto_pub -h test.mosquitto.org -p 1883 -t workshop/galileo -m "Hello Galileo Operators!"
-    root@edison:~# mosquitto_pub -h test.mosquitto.org -p 1883 -t workshop/edison -m "Hello Edison Operators!"
+    root@platform:~# mosquitto_pub -h test.mosquitto.org -p 1883 -t workshop/galileo -m "Hello Galileo Operators!"
+    root@platform:~# mosquitto_pub -h test.mosquitto.org -p 1883 -t workshop/edison -m "Hello Edison Operators!"
 ```
 
 As subscriber

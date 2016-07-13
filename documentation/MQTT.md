@@ -40,6 +40,8 @@ Quality of Services
 
 # Clients
 
+> We’re very excited to announce the MQTT Client Library Encyclopedia. [HiveMQ MQTT Client Library Encyclopedia](http://www.hivemq.com/mqtt-client-library-encyclopedia/)
+
 - C/C++/C#
 - Java
 - Perl

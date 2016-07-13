@@ -1,5 +1,9 @@
 # Telephony
 
+# Next Generation Mobile Networks
+
+> The Next Generation Mobile Networks (NGMN) Alliance is a mobile telecommunications association of mobile operators, vendors, manufacturers and research institutes. It was founded by major mobile operators in 2006 as an open forum to evaluate candidate technologies to develop a common view of solutions for the next evolution of wireless networks. [Homepage](https://en.wikipedia.org/wiki/Next_Generation_Mobile_Networks)
+
 # 1G
 
 > 1G (or 1-G) refers to the first generation of wireless telephone technology (mobile telecommunications). These are the analog telecommunications standards that were introduced in the 1980s and continued until being replaced by 2G digital telecommunications. The main difference between the two mobile telephone systems (1G and 2G), is that the radio signals used by 1G networks are analog, while 2G networks are digital. [Wikipedia](https://en.wikipedia.org/wiki/1G)

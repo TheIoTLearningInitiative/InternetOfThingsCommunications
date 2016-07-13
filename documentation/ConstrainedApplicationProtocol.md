@@ -14,7 +14,7 @@
 - [Working with bottlenecks: CoAP and MQTT](http://learninginternetofthings.com/bottlenecks-coap-mqtt/)
 - [Youtube ARM Constrained Application Protocol (CoAP) Tutorial](https://youtu.be/4bSr5x5gKvA?list=PLgyFKd2HIZlZNsrWXyE4kgLDo_tyLpvDW)
 
-# Node COAP Library
+# The Node COAP Library
 
 > A CoAP library for node modelled after 'http'
 

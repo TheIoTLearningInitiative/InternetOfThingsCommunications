@@ -14,7 +14,7 @@
    * [RFID](documentation/RFID.md)
    * [ZigBee](documentation/ZigBee.md)
    * [Z-Wave](documentation/ZWave.md)
-       * Hardware
+       * [Hardware](documentation/ZWaveHardware.md)
    * [Thread](documentation/Thread.md)
    * [HomeKit](documentation/HomeKit.md)
 * [Protocols](documentation/Protocols.md)

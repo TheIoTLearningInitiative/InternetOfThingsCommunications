@@ -7,7 +7,7 @@ With this step by step challenge you will have a parallel learning experience of
 
 # Subsystems, Bluetooth
 
-Section [Subsystems Bluetooth](url)
+Section [Link](url)
 
 __Instruction__
 

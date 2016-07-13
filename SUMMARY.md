@@ -23,7 +23,7 @@
        * [Security](documentation/MqttSecurity.md)
    * [Advanced Message Queuing Protocol](documentation/AMQP.md)
        * [RabbitMQ](documentation/AmqpRabbitMq.md)
-       * OpenAMQ
+       * [OpenAMQ](documentation/OpenAmq.md)
        * [ActiveMQ](documentation/ActiveMq.md)
    * [Weave](documentation/Weave.md)
    * [Constrained Application Protocol](documentation/ConstrainedApplicationProtocol.md)

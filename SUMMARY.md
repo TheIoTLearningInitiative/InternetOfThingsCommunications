@@ -3,6 +3,7 @@
 * [Cover](README.md)
 * [Summary](SUMMARY.md)
 * [Connectivity](documentation/Connectivity.md)
+   * Serial
    * [Telephony](documentation/Telephony.md)
    * [WiFi](documentation/WiFi.md)
        * [WiFi HaLow](documentation/WiFiHaLow.md)
@@ -18,7 +19,6 @@
    * [Z-Wave](documentation/ZWave.md)
    * [Thread](documentation/Thread.md)
    * [HomeKit](documentation/HomeKit.md)
-   * Serial
 * [Protocols](documentation/Protocols.md)
    * [Industrial Protocols](documentation/IndustrialProtocols.md)
    * [MQ Telemetry Transport](documentation/MQTT.md)

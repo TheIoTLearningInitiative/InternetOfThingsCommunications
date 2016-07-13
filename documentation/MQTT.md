@@ -11,8 +11,6 @@
 - [Minimal MQTT: Networked Nodes](http://hackaday.com/2016/05/17/minimal-mqtt-networked-nodes/)
 - [Working with bottlenecks: CoAP and MQTT](http://learninginternetofthings.com/bottlenecks-coap-mqtt/)
 
-### Features
-
 Core Messages
 
 - Connect
@@ -27,7 +25,7 @@ Quality of Services
 
 [HiveMQ MQTT Essentials Part 6: Quality of Service 0, 1 & 2](http://www.hivemq.com/mqtt-essentials-part-6-mqtt-quality-of-service-levels/)
 
-### Server Implementations
+## Server Implementations
 
 - IBM MQ
 - IBM Microbroker
@@ -39,7 +37,7 @@ Quality of Services
 - [Adafruit MQTT API](https://learn.adafruit.com/adafruit-io/mqtt-api)
 - [Microsoft Azure](http://iotmakerdendashboard.azurewebsites.net/install/publish.htm)
 
-### Clients
+## Clients
 
 - C/C++/C#
 - Java

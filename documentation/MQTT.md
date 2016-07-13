@@ -25,7 +25,7 @@ Quality of Services
 
 [HiveMQ MQTT Essentials Part 6: Quality of Service 0, 1 & 2](http://www.hivemq.com/mqtt-essentials-part-6-mqtt-quality-of-service-levels/)
 
-## Server Implementations
+# Server Implementations
 
 - IBM MQ
 - IBM Microbroker
@@ -37,7 +37,7 @@ Quality of Services
 - [Adafruit MQTT API](https://learn.adafruit.com/adafruit-io/mqtt-api)
 - [Microsoft Azure](http://iotmakerdendashboard.azurewebsites.net/install/publish.htm)
 
-## Clients
+# Clients
 
 - C/C++/C#
 - Java
@@ -48,14 +48,14 @@ Quality of Services
 - Ruby
 - Arduino
 
-## Brokers
+# Brokers
 
 - [Cloud MQTT Hosted broker for the Internet of Things](https://www.cloudmqtt.com/)
 - [Mosquitto](http://test.mosquitto.org/)
 - [Eclipse MQTT](http://iot.eclipse.org/getting-started#tutorials)
 - [MQTT Dashboard](broker.mqtt-dashboard.com)
 
-### Mosquitto
+## Mosquitto
 
 > Mosquitto is an open source (BSD licensed) message broker that implements the MQ Telemetry Transport protocol versions 3.1 and 3.1.1. MQTT provides a lightweight method of carrying out messaging using a publish/subscribe model.
 
@@ -65,12 +65,12 @@ Quality of Services
 
 [Mosquitto Homepage](http://mosquitto.org/)
 
-#### Mosquitto Intel® Edison Setup
+### Mosquitto Intel® Edison Setup
 
 - [Building and running Mosquitto MQTT on Intel Edison](https://software.intel.com/en-us/blogs/2015/02/20/building-and-running-mosquitto-mqtt-on-intel-edison)
 - [Connecting Sensor Networks and Devices to the Cloud in just minutes: Solution Brief](https://software.intel.com/sites/default/files/managed/52/10/IBM_Connecting_Sensor_Networks_and_Devices_Cloud_Minutes_Rev1_2.pdf)
 
-#### Mosquitto Intel® Galileo Setup
+### Mosquitto Intel® Galileo Setup
 
 ```sh
     root@galileo:~# wget http://mosquitto.org/files/source/mosquitto-1.3.5.tar.gz

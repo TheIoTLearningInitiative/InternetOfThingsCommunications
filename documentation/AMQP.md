@@ -8,9 +8,7 @@
 - [IBM MQ Light](https://developer.ibm.com/messaging/mq-light/)
 - [MQ Light and AMQP (Advanced Message Queuing Protocol)](https://developer.ibm.com/messaging/mq-light/docs/amqp/)
 
-## RabbitMq
 
-> What is RabbitMQ? Robust messaging for applications, Easy to use, Runs on all major operating systems, Supports a huge number of developer platforms, Open source and commercially supported [Homepage](https://www.rabbitmq.com/)
 
 ## OpenAMQ
 

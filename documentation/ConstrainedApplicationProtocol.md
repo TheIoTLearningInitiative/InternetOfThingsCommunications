@@ -18,7 +18,7 @@
 
 > A CoAP library for node modelled after 'http'
 
-- [](https://www.npmjs.com/package/coap)
+- [A CoAP library for node](https://www.npmjs.com/package/coap)
 
 ```sh
 root@edison:~# npm install coap

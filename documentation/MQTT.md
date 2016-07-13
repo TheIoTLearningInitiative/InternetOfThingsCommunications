@@ -6,6 +6,7 @@
 
 - [MQTT Homepage](http://mqtt.org/)
 - [MQTT Protocol Specification](http://www.ibm.com/developerworks/library/ws-mqtt/)
+- [HiveMQ MQTT Essentials](http://www.hivemq.com/mqtt-essentials/)
 - [HiveMQ MQTT Essentials: Part 1 – Introducing MQTT](http://www.hivemq.com/blog/mqtt-essentials-part-1-introducing-mqtt)
 - [HiveMQ MQTT Essentials Wrap-Up](http://www.hivemq.com/blog/mqtt-essentials-wrap-up)
 - [Minimal MQTT: Networked Nodes](http://hackaday.com/2016/05/17/minimal-mqtt-networked-nodes/)

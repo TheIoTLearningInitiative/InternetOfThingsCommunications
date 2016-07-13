@@ -4,7 +4,7 @@ With this step by step challenge you will have a parallel learning experience of
 
 1. Tbd
 
-# Title
+# Bluetooth
 
 Section [Link](url)
 

@@ -1,5 +1,4 @@
-ModBus
-==
+# ModBus
 
 > Modbus is a serial communications protocol originally published by Modicon (now Schneider Electric) in 1979 for use with its programmable logic controllers (PLCs). Simple and robust, it has since become a de facto standard communication protocol, and it is now a commonly available means of connecting industrial electronic devices. Wikipedia
 

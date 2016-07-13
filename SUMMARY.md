@@ -11,7 +11,7 @@
    * [Bluetooth](documentation/Bluetooth.md)
        * [Bluetooth Low Energy](documentation/BluetoothLowEnergy.md)
        * [Bluetooth Smart Mesh](documentation/BluetoothSmartMesh.md)
-       * Bluetooth SPP
+       * [Bluetooth SPP](documentation/BluetoothSpp.md)
        * Tbd
    * [LoRa](documentation/LoRa.md)
    * [RFID](documentation/RFID.md)

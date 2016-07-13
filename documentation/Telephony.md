@@ -10,7 +10,7 @@
 
 # 4G
 
-> [Wikipedia]()
+> 4G is the fourth generation of mobile telecommunications technology, succeeding 3G. A 4G system must provide capabilities defined by ITU in IMT Advanced. Potential and current applications include amended mobile web access, IP telephony, gaming services, high-definition mobile TV, video conferencing, 3D television. [Wikipedia](https://en.wikipedia.org/wiki/4G)
 
 # LTE
 

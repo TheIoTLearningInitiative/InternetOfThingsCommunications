@@ -24,8 +24,9 @@
 
 > 5G (5th generation mobile networks or 5th generation wireless systems) denotes the proposed next major phase of mobile telecommunications standards beyond the current 4G/IMT-Advanced standards. 5G planning includes Internet connection speeds faster than current 4G, and other improvements. [Wikipedia](https://en.wikipedia.org/wiki/5G)
 
-# LTE
+# Long-Term Evolution
 
+> Long-Term Evolution (LTE) is a standard for high-speed wireless communication for mobile phones and data terminals. It is based on the GSM/EDGE and UMTS/HSPA network technologies, increasing the capacity and speed using a different radio interface together with core network improvements. [Wikipedia](https://en.wikipedia.org/wiki/LTE_(telecommunication))
 
 # Companies
 

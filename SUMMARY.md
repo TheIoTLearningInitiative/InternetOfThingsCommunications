@@ -3,7 +3,7 @@
 * [Cover](README.md)
 * [Summary](SUMMARY.md)
 * [Connectivity](documentation/Connectivity.md)
-   * Serial
+   * [Serial](documentation/Serial.md)
    * [Telephony](documentation/Telephony.md)
    * [WiFi](documentation/WiFi.md)
        * [WiFi HaLow](documentation/WiFiHaLow.md)

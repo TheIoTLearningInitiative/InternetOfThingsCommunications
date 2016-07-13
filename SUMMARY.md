@@ -7,8 +7,8 @@
        * [WiFi HaLow](documentation/WiFiHaLow.md)
        * [WiGig](documentation/WiGig.md)
    * [Bluetooth](documentation/Bluetooth.md)
+       * [Bluetooth Low Energy](documentation/BluetoothLowEnergy.md)
        * Tbd
-   * [Bluetooth Low Energy](documentation/BluetoothLowEnergy.md)
    * [Bluetooth Smart Mesh](documentation/BluetoothSmartMesh.md)
    * [LoRa](documentation/LoRa.md)
    * [RFID](documentation/RFID.md)

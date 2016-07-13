@@ -14,8 +14,6 @@
 - [Minimal MQTT: Networked Nodes](http://hackaday.com/2016/05/17/minimal-mqtt-networked-nodes/)
 - [Working with bottlenecks: CoAP and MQTT](http://learninginternetofthings.com/bottlenecks-coap-mqtt/)
 
-![Source: Sparkfun.com](MQTT.PNG)
-
 ### Features
 
 Core Messages

@@ -12,6 +12,10 @@
 
 > 4G is the fourth generation of mobile telecommunications technology, succeeding 3G. A 4G system must provide capabilities defined by ITU in IMT Advanced. Potential and current applications include amended mobile web access, IP telephony, gaming services, high-definition mobile TV, video conferencing, 3D television. [Wikipedia](https://en.wikipedia.org/wiki/4G)
 
+# 5G
+
+> 5G (5th generation mobile networks or 5th generation wireless systems) denotes the proposed next major phase of mobile telecommunications standards beyond the current 4G/IMT-Advanced standards. 5G planning includes Internet connection speeds faster than current 4G, and other improvements. [Wikipedia](https://en.wikipedia.org/wiki/5G)
+
 # LTE
 
 

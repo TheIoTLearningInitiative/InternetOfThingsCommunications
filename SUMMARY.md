@@ -18,7 +18,7 @@
    * [Z-Wave](documentation/ZWave.md)
    * [Thread](documentation/Thread.md)
    * [HomeKit](documentation/HomeKit.md)
-   * 
+   * Serial
 * [Protocols](documentation/Protocols.md)
    * [Industrial Protocols](documentation/IndustrialProtocols.md)
    * [MQ Telemetry Transport](documentation/MQTT.md)

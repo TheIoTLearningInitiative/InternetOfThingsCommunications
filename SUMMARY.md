@@ -13,6 +13,7 @@
    * [LoRa](documentation/LoRa.md)
    * [RFID](documentation/RFID.md)
    * [ZigBee](documentation/ZigBee.md)
+       * Hardware
    * [Z-Wave](documentation/ZWave.md)
        * [Hardware](documentation/ZWaveHardware.md)
        * [Libraries](documentation/ZWaveLibraries.md)

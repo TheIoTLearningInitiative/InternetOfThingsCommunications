@@ -22,6 +22,7 @@
        * [RabbitMQ](documentation/RabbitMq.md)
        * [Security](documentation/MqttSecurity.md)
    * [Advanced Message Queuing Protocol](documentation/AMQP.md)
+       * RabbitMQ
    * [Weave](documentation/Weave.md)
    * [Constrained Application Protocol](documentation/ConstrainedApplicationProtocol.md)
    * [AllJoyn](documentation/Alljoyn.md)

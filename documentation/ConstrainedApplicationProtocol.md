@@ -30,6 +30,7 @@ root@edison:~#
 # The Python CoAP library
 
 - [The Python CoAP library](https://github.com/chrysn/aiocoap)
+- [aiocoap – The Python CoAP library](http://aiocoap.readthedocs.io/en/latest/)
 
 ```sh
 root@edison:~# pip install aiocoap

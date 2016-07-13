@@ -16,6 +16,8 @@
 
 # 
 
+> A CoAP library for node modelled after 'http'
+
 - [](https://www.npmjs.com/package/coap)
 
 ```sh

@@ -8,10 +8,3 @@
 - [IBM MQ Light](https://developer.ibm.com/messaging/mq-light/)
 - [MQ Light and AMQP (Advanced Message Queuing Protocol)](https://developer.ibm.com/messaging/mq-light/docs/amqp/)
 
-
-
-## OpenAMQ
-
-> Enterprise AMQP Messaging. Designed for Performance & Reliability. [Homepage](http://www.openamq.org/)
-
-

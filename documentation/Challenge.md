@@ -5,6 +5,7 @@ With this step by step challenge you will have a parallel learning experience of
 1. Connectivity Serial Arduino IDE
 2. Connectivity Serial Zephyr
 3. Connectivity Serial Port Profile
+4. Connectivity Bluetooth Serial Port Profile Arduino 101
 # Connectivity Serial Arduino IDE
 
 Section [Link](url)

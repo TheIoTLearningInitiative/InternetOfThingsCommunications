@@ -4,6 +4,7 @@
 * [Summary](SUMMARY.md)
 * About This Training
    * Objectives
+   * Skills
 * [Connectivity](documentation/Connectivity.md)
    * [Serial](documentation/Serial.md)
    * [Telephony](documentation/Telephony.md)

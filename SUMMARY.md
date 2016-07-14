@@ -41,7 +41,7 @@
 * [Libraries](documentation/Libraries.md)
    * [ZeroMQ](documentation/ZeroMq.md)
 * Wrap-Up
+   * [Challenge](documentation/Challenge.md)
    * Tbd
-* [Challenge](documentation/Challenge.md)
 * [SandBox](documentation/Sandbox.md)
 

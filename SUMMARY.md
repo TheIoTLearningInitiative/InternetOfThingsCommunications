@@ -6,6 +6,7 @@
    * [Objectives](documentation/Objectives.md)
    * [Skills](documentation/Skills.md)
    * [Prerequisites](documentation/Prerequisites.md)
+* Introduction
 * [Connectivity](documentation/Connectivity.md)
    * [Serial](documentation/Serial.md)
    * [Telephony](documentation/Telephony.md)
@@ -40,5 +41,4 @@
    * [ZeroMQ](documentation/ZeroMq.md)
 * [Challenge](documentation/Challenge.md)
 * [SandBox](documentation/Sandbox.md)
-* Introduction
 

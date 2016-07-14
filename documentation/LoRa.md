@@ -13,3 +13,7 @@
 
 - [Hacking the Internet of Things: Decoding LoRa](http://regator.com/p/270742580/hacking_the_internet_of_things_decoding_lora/)
 - [Decoding LoRa](https://revspace.nl/DecodingLora)
+
+# Hardware
+
+- [MicroChip RN2483](http://www.microchip.com/wwwproducts/en/RN2483)

@@ -2,6 +2,7 @@
 
 * [Cover](README.md)
 * [Summary](SUMMARY.md)
+* About This Training
 * [Connectivity](documentation/Connectivity.md)
    * [Serial](documentation/Serial.md)
    * [Telephony](documentation/Telephony.md)
@@ -37,5 +38,4 @@
 * [Challenge](documentation/Challenge.md)
 * [Intel Galileo](documentation/IntelGalileo.md)
 * [SandBox](documentation/Sandbox.md)
-* About This Training
 

@@ -7,7 +7,7 @@
    * [Skills](documentation/Skills.md)
    * [Prerequisites](documentation/Prerequisites.md)
 * [Introduction](documentation/Introduction.md)
-   * Software Define Radio
+   * Software Defined Radio
 * [Connectivity](documentation/Connectivity.md)
    * [Serial](documentation/Serial.md)
    * [Telephony](documentation/Telephony.md)

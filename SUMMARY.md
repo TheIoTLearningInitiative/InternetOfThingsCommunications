@@ -40,7 +40,7 @@
    * [Cap'n Proto](documentation/CapNProto.md)
 * [Libraries](documentation/Libraries.md)
    * [ZeroMQ](documentation/ZeroMq.md)
+* Wrap-Up
 * [Challenge](documentation/Challenge.md)
 * [SandBox](documentation/Sandbox.md)
-* Wrap-Up
 

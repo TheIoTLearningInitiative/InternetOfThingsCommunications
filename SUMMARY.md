@@ -5,6 +5,7 @@
 * About This Training
    * Objectives
    * Skills
+   * Prerequisites
 * [Connectivity](documentation/Connectivity.md)
    * [Serial](documentation/Serial.md)
    * [Telephony](documentation/Telephony.md)

@@ -15,6 +15,7 @@
 - [Decoding LoRa](https://revspace.nl/DecodingLora)
 - [Github rpp0 GNURadio blocks for receiving LoRa modulated radio messages using SDR](https://github.com/rpp0/gr-lora)
 - [LoRa modem with LimeSDR](https://myriadrf.org/blog/lora-modem-limesdr/)
+- [Hacking The Internet of Things: Decoding LoRa](http://hackaday.com/2016/01/31/hacking-the-internet-of-things-decoding-lora/)
 
 # Hardware
 

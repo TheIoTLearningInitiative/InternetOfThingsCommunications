@@ -4,8 +4,9 @@
 
 ## GR-Baz
 
-http://wiki.spench.net/wiki/Gr-baz
+- http://wiki.spench.net/wiki/Gr-baz
 
 # Examples
 
-https://github.com/argilo/sdr-examples
+- https://github.com/argilo/sdr-examples
+- 

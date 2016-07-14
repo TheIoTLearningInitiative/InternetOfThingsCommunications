@@ -3,7 +3,7 @@
 * [Cover](README.md)
 * [Summary](SUMMARY.md)
 * About This Training
-   * Objectives
+   * [Objectives](documentation/Objectives.md)
    * Skills
    * Prerequisites
 * [Connectivity](documentation/Connectivity.md)

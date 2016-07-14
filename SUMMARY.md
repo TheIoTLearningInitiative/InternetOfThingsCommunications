@@ -6,7 +6,7 @@
    * [Objectives](documentation/Objectives.md)
    * [Skills](documentation/Skills.md)
    * [Prerequisites](documentation/Prerequisites.md)
-* Introduction
+* [Introduction](documentation/Introduction.md)
 * [Connectivity](documentation/Connectivity.md)
    * [Serial](documentation/Serial.md)
    * [Telephony](documentation/Telephony.md)

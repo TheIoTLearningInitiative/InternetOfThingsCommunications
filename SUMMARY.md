@@ -37,4 +37,5 @@
 * [Challenge](documentation/Challenge.md)
 * [Intel Galileo](documentation/IntelGalileo.md)
 * [SandBox](documentation/Sandbox.md)
+* About This Training
 

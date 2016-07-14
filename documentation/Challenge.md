@@ -21,13 +21,21 @@ __Instruction__
 
 > Make a basic serial communication between Intel Edison (Python) and Arduino 101 / Genuino 101 (Zephyr)
 
-# Connectivity Bluetooth Serial Port Profile
+# Connectivity Bluetooth Serial Port Profile Android App
 
 Section [Link](url)
 
 __Instruction__
 
 > Implement a function to send the data from functionDataSensor through Bluetooth to an existing Android application (Android BlueTerm Application) using the SPP protocol
+
+# Connectivity Bluetooth Serial Port Profile Arduino 101
+
+Section [Link](url)
+
+__Instruction__
+
+> Implement a function to send the data from functionDataSensor through Bluetooth to an Arduino 101
 
 # Title
 

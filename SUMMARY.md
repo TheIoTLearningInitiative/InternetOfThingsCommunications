@@ -5,7 +5,7 @@
 * About This Training
    * [Objectives](documentation/Objectives.md)
    * [Skills](documentation/Skills.md)
-   * Prerequisites
+   * [Prerequisites](documentation/Prerequisites.md)
 * [Connectivity](documentation/Connectivity.md)
    * [Serial](documentation/Serial.md)
    * [Telephony](documentation/Telephony.md)

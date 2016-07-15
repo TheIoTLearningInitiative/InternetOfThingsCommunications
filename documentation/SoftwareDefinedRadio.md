@@ -11,12 +11,3 @@
 - [GNU Radio Wiki](http://gnuradio.org/redmine/projects/gnuradio/wiki)
 - [GNU Radio Wiki Hardware](http://gnuradio.org/redmine/projects/gnuradio/wiki/Hardware)
 
-## GR-Baz
-
-- http://wiki.spench.net/wiki/Gr-baz
-
-# Examples
-
-- https://github.com/argilo/sdr-examples
-- https://github.com/hexameron?tab=repositories
--  

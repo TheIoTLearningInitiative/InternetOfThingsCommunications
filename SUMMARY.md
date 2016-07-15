@@ -43,6 +43,5 @@
    * [ZeroMQ](documentation/ZeroMq.md)
 * Wrap-Up
    * [Challenge](documentation/Challenge.md)
-   * Tbd
 * [SandBox](documentation/Sandbox.md)
 

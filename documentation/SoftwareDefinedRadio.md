@@ -9,6 +9,14 @@
 - [Software Defined Radio and The Things Network](http://forum.thethingsnetwork.org/t/software-defined-radio-and-the-things-network/1286)
 - [Hacking the IoT with Software Defined Radio](https://conference.hitb.org/hitbsecconf2016ams/sessions/2-day-training-2-iot-security/)
 
+## Trainings
+
+- [Hacking the IoT with Software Defined Radio](https://conference.hitb.org/hitbsecconf2016ams/sessions/2-day-training-2-iot-security/)
+- At Youtube
+- [Balint's SDR Tutorials](http://files.ettus.com/tutorials/)
+- [GNU Radio Tutorial Series](https://www.youtube.com/playlist?list=PL618122BD66C8B3C4)
+- [Fundamentos de Comunicación EPN](https://www.youtube.com/channel/UCL0x1sTEC8XlZnjS_SHlj8Q)
+
 # GNU Radio
 
 > GNU Radio is a free & open-source software development toolkit that provides signal processing blocks to implement software radios. It can be used with readily-available low-cost external RF hardware to create software-defined radios, or without hardware in a simulation-like environment. It is widely used in hobbyist, academic and commercial environments to support both wireless communications research and real-world radio systems. [GNU Radio Homepage](http://gnuradio.org/)

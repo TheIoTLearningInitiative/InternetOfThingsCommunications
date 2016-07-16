@@ -30,7 +30,7 @@ while True:
 ```c
 #include <SoftwareSerial.h>
 
-SoftwareSerial mySerial(0, 1); // RX, TX
+SoftwareSerial mySerial(0, 1);
 
 void setup()
 {
@@ -39,7 +39,7 @@ void setup()
 
 void loop()
 {
-  mySerial.println("Hello World Serial");
+  mySerial.println("Hello Serial");
   if (mySerial.available())
     Serial.write(mySerial.read());
 }

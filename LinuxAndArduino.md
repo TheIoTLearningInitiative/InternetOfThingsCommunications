@@ -2,6 +2,13 @@
 
 Credits to [Github Daniela Plascencia DnPlas](https://github.com/dnplas)
 
+
+## Arduino Based Development Board
+
+
+
+## Linux Based Development Board
+
 ```sh
 root@edison:~# rfkill unblock bluetooth
 root@edison:~# bluetoothctl

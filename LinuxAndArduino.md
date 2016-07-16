@@ -85,3 +85,15 @@ Characteristic
 ```sh
 [LED]# select-attribute /org/bluez/hci0/dev_98_4F_EE_0F_2B_E0/service0009/char000a
 ```
+
+```sh
+[LED:/service0009/char000a]# read 
+Attempting to read /org/bluez/hci0/dev_98_4F_EE_0F_2B_E0/service0009/char000a
+[CHG] Attribute /org/bluez/hci0/dev_98_4F_EE_0F_2B_E0/service0009/char000a Value: 0x00
+  00                                               .               
+[LED:/service0009/char000a]# write 01
+Attempting to write /org/bluez/hci0/dev_98_4F_EE_0F_2B_E0/service0009/char000a
+[LED:/service0009/char000a]# write 00
+Attempting to write /org/bluez/hci0/dev_98_4F_EE_0F_2B_E0/service0009/char000a
+[LED:/service0009/char000a]# 
+```

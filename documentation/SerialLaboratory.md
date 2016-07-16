@@ -1,6 +1,6 @@
 # Laboratory
 
-## Intel Edison
+## Linux Based Development Board
 
 ```sh
 root@edison:~# stty -F /dev/ttyMFD1 9600

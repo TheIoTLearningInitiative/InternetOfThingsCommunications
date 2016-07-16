@@ -2,8 +2,6 @@
 
 Install Android BlueTerm Application 
 
-At Intel Edison
-
 ```sh
 root@edison:~# rfkill unblock bluetooth
 root@edison:~# bluetoothctl
@@ -16,6 +14,8 @@ root@edison:~# bluetoothctl
 [bluetooth]# connect <id you paired with>
 [bluetooth]# exit
 ```
+
+At Intel Edison
 
 ```sh
 root@edison:~# rfkill unblock bluetooth

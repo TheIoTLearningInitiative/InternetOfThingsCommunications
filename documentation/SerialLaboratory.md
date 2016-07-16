@@ -18,5 +18,4 @@ void loop()
   if (mySerial.available())
     Serial.write(mySerial.read());
 }
-
 ```

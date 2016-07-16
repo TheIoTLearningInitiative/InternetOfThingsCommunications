@@ -39,7 +39,7 @@ void setup()
 
 void loop()
 {
-  mySerial.println("Hello Serial");
+  mySerial.println("Hello Serial!");
   if (mySerial.available())
     Serial.write(mySerial.read());
 }

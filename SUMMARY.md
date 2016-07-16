@@ -21,6 +21,7 @@
        * [Bluetooth Smart Mesh](documentation/BluetoothSmartMesh.md)
        * [Bluetooth SPP](documentation/BluetoothSpp.md)
        * Laboratory
+           * Linux and Arduino
    * [LoRa](documentation/LoRa.md)
    * [RFID](documentation/RFID.md)
    * [ZigBee](documentation/ZigBee.md)

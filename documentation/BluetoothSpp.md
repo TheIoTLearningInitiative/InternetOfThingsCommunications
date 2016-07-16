@@ -2,6 +2,8 @@
 
 Install Android BlueTerm Application 
 
+Examples
+
 ```sh
 root@edison:~# rfkill unblock bluetooth
 root@edison:~# bluetoothctl

@@ -17,5 +17,5 @@
 root@edison:~# cd TheIoTLearningInitiative/
 root@edison:~/TheIoTLearningInitiative# mkdir Communications
 root@edison:~/TheIoTLearningInitiative# cd Communications
-root@edison:~#
+root@edison:~/TheIoTLearningInitiative/Communications# 
 ```

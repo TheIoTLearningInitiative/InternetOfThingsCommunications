@@ -2,7 +2,9 @@
 
 ## Intel Edison
 
-
+```sh
+root@edison:~# stty -F /dev/ttyMFD1 9600
+```
 
 ## Arduino IDE
 

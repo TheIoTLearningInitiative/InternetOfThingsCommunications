@@ -62,3 +62,11 @@ Discovery stopped
 [CHG] Controller 98:4F:EE:04:1A:8C Discovering: no
 [bluetooth]# 
 ```
+
+```sh
+[bluetooth]# connect 98:4F:EE:0F:2B:E0
+Attempting to connect to 98:4F:EE:0F:2B:E0
+[CHG] Device 98:4F:EE:0F:2B:E0 Connected: yes
+Connection successful
+[LED]# 
+```

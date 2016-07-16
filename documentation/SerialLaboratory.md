@@ -1,7 +1,7 @@
 # Laboratory
 
 
-# Arduino IDE
+## Arduino IDE
 
 ```c
 #include <SoftwareSerial.h>

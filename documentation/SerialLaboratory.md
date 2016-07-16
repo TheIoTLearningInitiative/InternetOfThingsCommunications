@@ -13,9 +13,8 @@ import mraa
 
 x=mraa.Uart(0)
 
-ser = serial.Serial('/dev/ttyMFD1', 9600) # Establish the connection on a specific port
-
-counter = 32 # Below 32 everything in ASCII is gibberish
+ser = serial.Serial('/dev/ttyMFD1', 9600)
+counter = 32
 
 while True:
      counter +=1

@@ -11,6 +11,7 @@
    * Network Topologies
 * [Connectivity](documentation/Connectivity.md)
    * [Serial](documentation/Serial.md)
+       * Laboratory
    * [Telephony](documentation/Telephony.md)
    * [WiFi](documentation/WiFi.md)
        * [WiFi HaLow](documentation/WiFiHaLow.md)

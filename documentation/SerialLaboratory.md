@@ -25,7 +25,7 @@ while True:
          counter = 32
 ```
 
-## Arduino IDE
+## Arduino Based Board
 
 ```c
 #include <SoftwareSerial.h>

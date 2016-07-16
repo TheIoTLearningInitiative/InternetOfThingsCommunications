@@ -22,6 +22,7 @@
        * [Bluetooth SPP](documentation/BluetoothSpp.md)
        * Laboratory
            * [Linux and Arduino](LinuxAndArduino.md)
+           * Nordic
    * [LoRa](documentation/LoRa.md)
    * [RFID](documentation/RFID.md)
    * [ZigBee](documentation/ZigBee.md)

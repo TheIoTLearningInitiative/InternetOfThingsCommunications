@@ -19,8 +19,8 @@ counter = 32
 while True:
      counter +=1
      ser.write(str(chr(counter)))
-     print ser.readline() # Read the newest output from the Arduino
-     sleep(.1) # Delay for one tenth of a second
+     print ser.readline()
+     sleep(.1)
      if counter == 255:
          counter = 32
 ```

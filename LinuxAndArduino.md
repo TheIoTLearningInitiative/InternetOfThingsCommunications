@@ -70,3 +70,18 @@ Attempting to connect to 98:4F:EE:0F:2B:E0
 Connection successful
 [LED]# 
 ```
+
+```sh
+[LED]# list-attributes 
+Primary Service
+        /org/bluez/hci0/dev_98_4F_EE_0F_2B_E0/service0009
+        Vendor specific
+Characteristic
+        /org/bluez/hci0/dev_98_4F_EE_0F_2B_E0/service0009/char000a
+        Vendor specific
+[LED]# 
+```
+
+```sh
+[LED]# select-attribute /org/bluez/hci0/dev_98_4F_EE_0F_2B_E0/service0009/char000a
+```

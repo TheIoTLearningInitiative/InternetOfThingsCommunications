@@ -163,3 +163,11 @@ Profile Descriptor List:
   "Advanced Audio" (0x110d)
     Version: 0x0102
 ```
+
+@ Arduino Based Board
+
+```sh
+root@edison:~# sdptool browse 98:4F:EE:0F:2B:E0 
+Failed to connect to SDP server on 98:4F:EE:0F:2B:E0: Host is down
+```
+

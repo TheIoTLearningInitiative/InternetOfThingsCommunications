@@ -22,11 +22,11 @@
        * [Bluetooth Low Energy](documentation/BluetoothLowEnergy.md)
        * [Bluetooth Smart Mesh](documentation/BluetoothSmartMesh.md)
        * Laboratory
+           * Intel Edison
            * [Bluetooth SPP](documentation/BluetoothSpp.md)
            * [Linux and Arduino](LinuxAndArduino.md)
            * Nordic
            * [Intel](BluetoothIntel.md)
-           * Intel Edison
    * [LoRa](documentation/LoRa.md)
    * [RFID](documentation/RFID.md)
    * [ZigBee](documentation/ZigBee.md)

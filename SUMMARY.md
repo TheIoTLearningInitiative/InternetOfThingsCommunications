@@ -18,7 +18,7 @@
        * [WiFi HaLow](documentation/WiFiHaLow.md)
        * [WiGig](documentation/WiGig.md)
    * [Bluetooth](documentation/Bluetooth.md)
-       * [Bluetooth Profiles](documentation/BluetoothProfiles.md)
+       * [Bluetooth Specifications](documentation/BluetoothProfiles.md)
        * [Bluetooth Low Energy](documentation/BluetoothLowEnergy.md)
        * [Bluetooth Smart Mesh](documentation/BluetoothSmartMesh.md)
        * Laboratory

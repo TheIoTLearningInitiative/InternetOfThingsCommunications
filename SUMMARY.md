@@ -19,6 +19,7 @@
        * [WiGig](documentation/WiGig.md)
    * [Bluetooth](documentation/Bluetooth.md)
        * [Introduction](documentation/BluetoothIntroduction.md)
+       * Bluetooth Profiles
        * [Bluetooth Low Energy](documentation/BluetoothLowEnergy.md)
        * [Bluetooth Smart Mesh](documentation/BluetoothSmartMesh.md)
        * [Bluetooth SPP](documentation/BluetoothSpp.md)
@@ -26,7 +27,6 @@
            * [Linux and Arduino](LinuxAndArduino.md)
            * Nordic
            * [Intel](BluetoothIntel.md)
-       * Bluetooth Profiles
    * [LoRa](documentation/LoRa.md)
    * [RFID](documentation/RFID.md)
    * [ZigBee](documentation/ZigBee.md)

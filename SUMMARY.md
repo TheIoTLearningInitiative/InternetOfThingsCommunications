@@ -23,10 +23,10 @@
        * [Bluetooth Smart Mesh](documentation/BluetoothSmartMesh.md)
        * Development Boards
            * [Intel Edison](documentation/BluetoothIntelEdison.md)
+           * [Arduino](documentation/BluetoothArduino.md)
            * Tbd
        * Laboratory
            * [Linux](documentation/BluetoothLinux.md)
-           * [Arduino](documentation/BluetoothArduino.md)
            * [Bluetooth SPP](documentation/BluetoothSpp.md)
            * [Linux and Arduino](documentation/LinuxAndArduino.md)
            * Nordic

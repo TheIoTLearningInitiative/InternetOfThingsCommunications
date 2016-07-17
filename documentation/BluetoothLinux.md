@@ -241,3 +241,19 @@ Failed to connect to SDP server on 98:4F:EE:0F:2B:E0: Host is down
 root@edison:~# 
 ```
 
+# GattTool
+
+```sh
+root@edison: cd ~
+root@edison: wget 	
+https://www.kernel.org/pub/linux/bluetooth/bluez-5.24.tar.xz –	no-check-certificate
+root@edison: tar -xf bluez-5.24.tar.xz
+root@edison: cd bluez-5.24
+root@edison: ./configure --disable-systemd –disable-udev
+root@edison: make
+root@edison: make install
+
+To be able to launch gatttool from anywhere add it to the path:
+
+root@edison: export PATH=$PATH:~/bluez-5.24/attrib/
+```

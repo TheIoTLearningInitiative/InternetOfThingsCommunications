@@ -47,3 +47,13 @@ root@edison:~# bluetoothctl
     root@edison:~# paired-devices
     root@edison:~# remove 40:78:6A:26:4A:C1
 ```
+
+# HCITool
+
+```sh
+root@edison:~# hcitool lescan
+LE Scan ...
+98:4F:EE:0F:80:FE BatteryMonitorSketch
+98:4F:EE:0F:80:FE (unknown)
+^Croot@edison:~# 
+```

@@ -30,6 +30,33 @@ Components
 - L2CAP module
 - Configuration and testing utilities
 
+## Bluez Service
+
+```sh
+root@edison:~# systemctl status bluetooth
+● bluetooth.service - Bluetooth service
+   Loaded: loaded (/lib/systemd/system/bluetooth.service; enabled)
+   Active: active (running) since Sat 2016-07-16 16:56:29 UTC; 50min ago
+     Docs: man:bluetoothd(8)
+ Main PID: 202 (bluetoothd)
+   Status: "Running"
+   CGroup: /system.slice/bluetooth.service
+           └─202 /usr/lib/bluez5/bluetooth/bluetoothd -E
+
+Jul 16 16:59:39 edison bluetoothd[202]: Error adding Link Loss service
+Jul 16 16:59:39 edison bluetoothd[202]: Not enough free handles to register ...e
+Jul 16 16:59:39 edison bluetoothd[202]: Not enough free handles to register ...e
+Jul 16 16:59:39 edison bluetoothd[202]: Not enough free handles to register ...e
+Jul 16 16:59:39 edison bluetoothd[202]: Current Time Service could not be re...d
+Jul 16 16:59:39 edison bluetoothd[202]: gatt-time-server: Input/output error (5)
+Jul 16 16:59:39 edison bluetoothd[202]: Not enough free handles to register ...e
+Jul 16 16:59:39 edison bluetoothd[202]: Not enough free handles to register ...e
+Jul 16 16:59:39 edison bluetoothd[202]: Failed to read advertising features:...)
+Jul 16 16:59:39 edison bluetoothd[202]: hci0 Load Connection Parameters fail...)
+Hint: Some lines were ellipsized, use -l to show in full.
+root@edison:~# 
+```
+
 ## Bluez Interface
 
 ```sh

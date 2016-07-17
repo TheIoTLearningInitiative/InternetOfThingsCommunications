@@ -4,6 +4,6 @@
 
 # GATT
 
-> The Generic Attributes (GATT) define a hierarchical data structure that is exposed to connected Bluetooth LE devices [Bluetooth GATT](https://www.bluetooth.com/specifications/generic-attributes-overview)
+> The Generic Attributes (GATT) define a hierarchical data structure that is exposed to connected Bluetooth LE devices [Bluetooth GATT Specifications](https://www.bluetooth.com/specifications/generic-attributes-overview)
 
 - [Bluetooth Services](https://developer.bluetooth.org/gatt/services/Pages/ServicesHome.aspx)

@@ -118,4 +118,17 @@ Profile Descriptor List:
   "AV Remote" (0x110e)
     Version: 0x0104
 
+Service Name: AVRCP CT
+Service RecHandle: 0x10005
+Service Class ID List:
+  "AV Remote" (0x110e)
+Protocol Descriptor List:
+  "L2CAP" (0x0100)
+    PSM: 23
+  "AVCTP" (0x0017)
+    uint16: 0x0103
+Profile Descriptor List:
+  "AV Remote" (0x110e)
+    Version: 0x0100
+
 ```

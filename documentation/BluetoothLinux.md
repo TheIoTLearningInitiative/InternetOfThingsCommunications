@@ -105,5 +105,17 @@ Profile Descriptor List:
   "Handsfree" (0x111e)
     Version: 0x0105
 
+Service Name: AVRCP TG
+Service RecHandle: 0x10004
+Service Class ID List:
+  "AV Remote Target" (0x110c)
+Protocol Descriptor List:
+  "L2CAP" (0x0100)
+    PSM: 23
+  "AVCTP" (0x0017)
+    uint16: 0x0103
+Profile Descriptor List:
+  "AV Remote" (0x110e)
+    Version: 0x0104
 
 ```

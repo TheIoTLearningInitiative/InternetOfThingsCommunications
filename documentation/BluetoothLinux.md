@@ -71,4 +71,13 @@ Service RecHandle: 0x10001
 Service Class ID List:
   "Headset Audio Gateway" (0x1112)
   "Generic Audio" (0x1203)
+Protocol Descriptor List:
+  "L2CAP" (0x0100)
+  "RFCOMM" (0x0003)
+    Channel: 12
+Profile Descriptor List:
+  "Headset" (0x1108)
+    Version: 0x0102
+
+
 ```

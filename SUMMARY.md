@@ -24,6 +24,7 @@
        * Laboratory
            * [Linux](documentation/BluetoothLinux.md)
            * [Arduino](documentation/BluetoothArduino.md)
+               * Arduino 101
            * [Intel Edison](documentation/BluetoothIntelEdison.md)
            * [Bluetooth SPP](documentation/BluetoothSpp.md)
            * [Linux and Arduino](documentation/LinuxAndArduino.md)

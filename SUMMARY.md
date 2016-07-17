@@ -26,7 +26,6 @@
            * [Bluetooth SPP](documentation/BluetoothSpp.md)
            * [Linux and Arduino](documentation/LinuxAndArduino.md)
            * Nordic
-       * Virtual Keyboard
    * [LoRa](documentation/LoRa.md)
    * [RFID](documentation/RFID.md)
    * [ZigBee](documentation/ZigBee.md)

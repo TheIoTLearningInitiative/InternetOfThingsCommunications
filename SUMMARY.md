@@ -28,6 +28,7 @@
            * [Linux and Arduino](documentation/LinuxAndArduino.md)
            * Nordic
            * [Virtual Keyboard](BluetoothVirtualKeyboard.md)
+           * Linux
    * [LoRa](documentation/LoRa.md)
    * [RFID](documentation/RFID.md)
    * [ZigBee](documentation/ZigBee.md)

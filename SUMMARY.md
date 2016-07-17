@@ -9,7 +9,7 @@
 * [Introduction](documentation/Introduction.md)
    * [Software Defined Radio](documentation/SoftwareDefinedRadio.md)
    * Network Topologies
-   * Wireshark
+   * [Wireshark](documentation/Wireshark.md)
 * [Connectivity](documentation/Connectivity.md)
    * [Serial](documentation/Serial.md)
        * Laboratory

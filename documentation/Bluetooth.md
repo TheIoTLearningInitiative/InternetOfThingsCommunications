@@ -10,5 +10,5 @@
 
 # Nordic Semiconductor
 
-[Nordic Semiconductor Guthub](https://github.com/NordicSemiconductor)
+[Nordic Semiconductor Github](https://github.com/NordicSemiconductor)
 

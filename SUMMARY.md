@@ -24,7 +24,7 @@
        * Laboratory
            * [Intel Edison](documentation/BluetoothIntelEdison.md)
            * [Bluetooth SPP](documentation/BluetoothSpp.md)
-           * [Linux and Arduino](LinuxAndArduino.md)
+           * [Linux and Arduino](documentation/LinuxAndArduino.md)
            * Nordic
    * [LoRa](documentation/LoRa.md)
    * [RFID](documentation/RFID.md)

@@ -11,7 +11,7 @@
    * Network Topologies
 * [Connectivity](documentation/Connectivity.md)
    * [Serial](documentation/Serial.md)
-       * [Laboratory](documentation/SerialLaboratory.md)
+       * Laboratory
            * [Linux and Arduino](documentation/SerialLinuxAndArduino.md)
    * [Telephony](documentation/Telephony.md)
    * [WiFi](documentation/WiFi.md)

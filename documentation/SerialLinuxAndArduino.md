@@ -30,7 +30,7 @@ while True:
 ```
 
 ```sh
-root@edison:~# pytonn helloserial.py
+root@edison:~# python helloserial.py
 ```
 
 ## Arduino Based Board

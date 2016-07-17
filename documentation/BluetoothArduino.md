@@ -8,10 +8,7 @@ int dataFromBT;
  
 void setup() {
   Serial.begin(57600);
-  Serial.println("LEDOnOff Starting...");
- 
-  // The data rate for the SoftwareSerial port needs to 
-  // match the data rate for your bluetooth board.
+  Serial.println("Service Available!");
   mySerial.begin(115200);
   pinMode(13, OUTPUT);   
 }
@@ -21,10 +18,8 @@ void loop() {
     dataFromBT = mySerial.read();
  
   if (dataFromBT == '0') {
-    // Turn off LED
     digitalWrite(13, LOW);
   } else if (dataFromBT == '1') {
-    // Turn on LEFD
     digitalWrite(13, HIGH);
   }
 }

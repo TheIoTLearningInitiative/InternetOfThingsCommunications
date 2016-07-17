@@ -22,7 +22,7 @@
        * [Bluetooth Low Energy](documentation/BluetoothLowEnergy.md)
        * [Bluetooth Smart Mesh](documentation/BluetoothSmartMesh.md)
        * Laboratory
-           * Linux
+           * [Linux](documentation/BluetoothLinux.md)
            * [Arduino](documentation/BluetoothArduino.md)
            * [Intel Edison](documentation/BluetoothIntelEdison.md)
            * [Bluetooth SPP](documentation/BluetoothSpp.md)

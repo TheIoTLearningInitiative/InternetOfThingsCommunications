@@ -11,6 +11,7 @@
 - [HiveMQ MQTT Essentials Wrap-Up](http://www.hivemq.com/blog/mqtt-essentials-wrap-up)
 - [Minimal MQTT: Networked Nodes](http://hackaday.com/2016/05/17/minimal-mqtt-networked-nodes/)
 - [Working with Bottlenecks: CoAP and MQTT](http://learninginternetofthings.com/bottlenecks-coap-mqtt/)
+- [MQTT is the de-facto standard and ISO standard for messaging protocols](https://developer.ibm.com/dwblog/mqtt-de-facto-standard-iso-messaging/)
 
 Core Messages
 

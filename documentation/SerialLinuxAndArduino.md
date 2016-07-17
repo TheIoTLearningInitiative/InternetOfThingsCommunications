@@ -18,15 +18,10 @@ import mraa
 x=mraa.Uart(0)
 
 ser = serial.Serial('/dev/ttyMFD1', 9600)
-counter = 32
 
 while True:
-     counter +=1
-     ser.write(str(chr(counter)))
      print ser.readline()
      sleep(.1)
-     if counter == 255:
-         counter = 32
 ```
 
 ```sh

@@ -6,6 +6,10 @@
 root@edison:~# stty -F /dev/ttyMFD1 9600
 ```
 
+```sh
+root@edison:~# nano helloserial.py
+```
+
 ```python
 from time import sleep
 import serial
@@ -23,6 +27,10 @@ while True:
      sleep(.1)
      if counter == 255:
          counter = 32
+```
+
+```sh
+root@edison:~# pytonn helloserial.py
 ```
 
 ## Arduino Based Board

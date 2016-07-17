@@ -1,5 +1,4 @@
-# Linux and Arduino
-
+# Linux And Arduino
 
 ## Linux Based Development Board
 

@@ -31,6 +31,7 @@
            * [Linux and Arduino](documentation/LinuxAndArduino.md)
            * Nordic
            * [Virtual Keyboard](documentation/BluetoothVirtualKeyboard.md)
+           * Reverse Engineering
    * [LoRa](documentation/LoRa.md)
    * [RFID](documentation/RFID.md)
    * [ZigBee](documentation/ZigBee.md)

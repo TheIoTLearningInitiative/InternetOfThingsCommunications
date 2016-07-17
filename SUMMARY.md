@@ -22,13 +22,13 @@
        * [Bluetooth Low Energy](documentation/BluetoothLowEnergy.md)
        * [Bluetooth Smart Mesh](documentation/BluetoothSmartMesh.md)
        * Laboratory
+           * Linux
            * [Arduino](documentation/BluetoothArduino.md)
            * [Intel Edison](documentation/BluetoothIntelEdison.md)
            * [Bluetooth SPP](documentation/BluetoothSpp.md)
            * [Linux and Arduino](documentation/LinuxAndArduino.md)
            * Nordic
            * [Virtual Keyboard](BluetoothVirtualKeyboard.md)
-           * Linux
    * [LoRa](documentation/LoRa.md)
    * [RFID](documentation/RFID.md)
    * [ZigBee](documentation/ZigBee.md)

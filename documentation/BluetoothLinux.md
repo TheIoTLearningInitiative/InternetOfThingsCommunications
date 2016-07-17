@@ -48,3 +48,27 @@ Ping: E8:B1:FC:09:6A:FE from 98:4F:EE:04:1A:8C (data size 44) ...
 ^C4 sent, 4 received, 0% loss
 root@edison:~# 
 ```
+
+# SDPTool
+
+```
+Browsing E8:B1:FC:09:6A:FE ...
+Service Name: SIM Access Server
+Service RecHandle: 0x10000
+Service Class ID List:
+  "SIM Access" (0x112d)
+  "Generic Telephony" (0x1204)
+Protocol Descriptor List:
+  "L2CAP" (0x0100)
+  "RFCOMM" (0x0003)
+    Channel: 8
+Profile Descriptor List:
+  "SIM Access" (0x112d)
+    Version: 0x0101
+
+Service Name: Headset Audio Gateway
+Service RecHandle: 0x10001
+Service Class ID List:
+  "Headset Audio Gateway" (0x1112)
+  "Generic Audio" (0x1203)
+```

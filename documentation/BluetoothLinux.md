@@ -169,5 +169,6 @@ Profile Descriptor List:
 ```sh
 root@edison:~# sdptool browse 98:4F:EE:0F:2B:E0 
 Failed to connect to SDP server on 98:4F:EE:0F:2B:E0: Host is down
+root@edison:~# 
 ```
 

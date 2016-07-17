@@ -79,5 +79,31 @@ Profile Descriptor List:
   "Headset" (0x1108)
     Version: 0x0102
 
+Service Name: Hands-Free Audio Gateway
+Service RecHandle: 0x10002
+Service Class ID List:
+  "Handsfree Audio Gateway" (0x111f)
+  "Generic Audio" (0x1203)
+Protocol Descriptor List:
+  "L2CAP" (0x0100)
+  "RFCOMM" (0x0003)
+    Channel: 13
+Profile Descriptor List:
+  "Handsfree" (0x111e)  
+    Version: 0x0105
+
+Service Name: Hands-Free
+Service RecHandle: 0x10003
+Service Class ID List:
+  "Handsfree" (0x111e)
+  "Generic Audio" (0x1203)
+Protocol Descriptor List:
+  "L2CAP" (0x0100)
+  "RFCOMM" (0x0003)
+    Channel: 7
+Profile Descriptor List:
+  "Handsfree" (0x111e)
+    Version: 0x0105
+
 
 ```

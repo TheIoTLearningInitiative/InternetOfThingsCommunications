@@ -51,6 +51,12 @@ root@edison:~#
 
 # SDPTool
 
+@ Linux Based Laptop
+
+```sh
+root@edison:~# sdptool browse  E8:B1:FC:09:6A:FE
+```
+
 ```
 Browsing E8:B1:FC:09:6A:FE ...
 Service Name: SIM Access Server

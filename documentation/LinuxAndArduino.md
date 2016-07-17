@@ -90,6 +90,14 @@ void loop() {
 ## Linux Based Development Board
 
 ```sh
+root@edison:~# hcitool lescan
+LE Scan ...
+98:4F:EE:0F:80:FE LED
+98:4F:EE:0F:80:FE (unknown)
+^Croot@edison:~# 
+```
+
+```sh
 root@edison:~# rfkill unblock bluetooth
 root@edison:~# bluetoothctl
 [NEW] Controller 98:4F:EE:04:1A:8C MyEdison [default]

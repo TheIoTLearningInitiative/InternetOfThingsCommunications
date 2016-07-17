@@ -19,7 +19,6 @@
        * [WiGig](documentation/WiGig.md)
    * [Bluetooth](documentation/Bluetooth.md)
        * [Bluetooth Profiles](documentation/BluetoothProfiles.md)
-           * Tbd
        * [Bluetooth Low Energy](documentation/BluetoothLowEnergy.md)
        * [Bluetooth Smart Mesh](documentation/BluetoothSmartMesh.md)
        * Laboratory

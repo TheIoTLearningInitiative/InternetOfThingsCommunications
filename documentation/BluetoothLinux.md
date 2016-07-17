@@ -131,4 +131,29 @@ Profile Descriptor List:
   "AV Remote" (0x110e)
     Version: 0x0100
 
+Service Name: Audio Source
+Service RecHandle: 0x10006
+Service Class ID List:
+  "Audio Source" (0x110a)
+Protocol Descriptor List:
+  "L2CAP" (0x0100)
+    PSM: 25
+  "AVDTP" (0x0019)
+    uint16: 0x0102
+Profile Descriptor List:
+  "Advanced Audio" (0x110d)
+    Version: 0x0102
+
+Service Name: Audio Sink
+Service RecHandle: 0x10007
+Service Class ID List:
+  "Audio Sink" (0x110b)
+Protocol Descriptor List:
+  "L2CAP" (0x0100)
+    PSM: 25
+  "AVDTP" (0x0019)
+    uint16: 0x0102
+Profile Descriptor List:
+  "Advanced Audio" (0x110d)
+    Version: 0x0102
 ```

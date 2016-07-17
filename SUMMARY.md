@@ -22,7 +22,7 @@
        * [Bluetooth Low Energy](documentation/BluetoothLowEnergy.md)
        * [Bluetooth Smart Mesh](documentation/BluetoothSmartMesh.md)
        * Development Boards
-           * [Linux](documentation/BluetoothLinux.md)
+           * [Linux Based](documentation/BluetoothLinux.md)
            * [Intel Edison](documentation/BluetoothIntelEdison.md)
            * [Arduino](documentation/BluetoothArduino.md)
            * Tbd

@@ -2,7 +2,6 @@
 
 Credits to [Github Daniela Plascencia DnPlas](https://github.com/dnplas)
 
-
 ## Arduino Based Development Board
 
 ```c

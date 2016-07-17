@@ -32,6 +32,23 @@ hci0:   Type: BR/EDR  Bus: UART
 root@edison:~# 
 ```
 
+```sh
+root@edison:~# hciconfig hci0 up
+root@edison:~# hciconfig hci0 leadv 3
+root@edison:~# hciconfig hci0 noscan
+```
+
+```sh
+root@edison:~# hciconfig 
+hci0:   Type: BR/EDR  Bus: UART
+        BD Address: 98:4F:EE:04:1A:8C  ACL MTU: 1021:8  SCO MTU: 64:1
+        UP RUNNING 
+        RX bytes:4866 acl:26 sco:0 events:156 errors:0
+        TX bytes:4696 acl:24 sco:0 commands:111 errors:0
+
+root@edison:~# 
+```
+
 # Bluez
 
 > BlueZ is a Bluetooth stack for Linux kernel-based family of operating systems. Its goal is to program an implementation of the Bluetooth wireless standards specifications for Linux. As of 2006, the BlueZ stack supports all core Bluetooth protocols and layers.[2] It was initially developed by Qualcomm, and is available for Linux kernel versions 2.4.6 and up. In addition to the basic stack, the bluez-utils and bluez-firmware packages contain low level utilities such as dfutool which can interrogate the Bluetooth adapter chipset to determine whether its firmware can be upgraded. [Wikipedia](https://en.wikipedia.org/wiki/Bluetooth_stack)

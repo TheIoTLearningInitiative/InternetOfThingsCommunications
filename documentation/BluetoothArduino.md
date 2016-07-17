@@ -1,5 +1,7 @@
 # Arduino
 
+HC-06
+
 ```c
 #include <SoftwareSerial.h>
  

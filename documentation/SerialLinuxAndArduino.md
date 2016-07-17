@@ -11,9 +11,9 @@ root@edison:~# nano helloserial.py
 ```
 
 ```python
-from time import sleep
-import serial
 import mraa
+import serial
+import time
 
 x=mraa.Uart(0)
 
@@ -21,7 +21,7 @@ ser = serial.Serial('/dev/ttyMFD1', 9600)
 
 while True:
      print ser.readline()
-     sleep(.1)
+     time.sleep(.1)
 ```
 
 ```sh

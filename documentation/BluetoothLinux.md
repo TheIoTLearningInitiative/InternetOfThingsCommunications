@@ -243,6 +243,8 @@ root@edison:~#
 
 # GattTool
 
+- [](https://software.intel.com/en-us/articles/using-the-generic-attribute-profile-gatt-in-bluetooth-low-energy-with-your-intel-edison)
+
 ```sh
 root@edison: cd ~
 root@edison: wget 	

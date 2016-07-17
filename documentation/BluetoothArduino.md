@@ -1,6 +1,6 @@
 # Arduino
 
-HC-06
+Module HC-06
 
 ```c
 #include <SoftwareSerial.h>

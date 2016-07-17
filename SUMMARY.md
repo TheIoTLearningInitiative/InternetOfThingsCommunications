@@ -25,7 +25,6 @@
            * [Linux Based](documentation/BluetoothLinux.md)
            * [Intel Edison](documentation/BluetoothIntelEdison.md)
            * [Arduino](documentation/BluetoothArduino.md)
-           * Tbd
        * Laboratory
            * [Bluetooth SPP](documentation/BluetoothSpp.md)
            * [Linux and Arduino](documentation/LinuxAndArduino.md)

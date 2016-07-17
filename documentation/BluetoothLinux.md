@@ -1,6 +1,6 @@
 # Linux
 
-- [](http://linux.die.net/man/1/sdptool)
+- [Man Pages Name sdptool -- Control and interrogate SDP servers](http://linux.die.net/man/1/sdptool)
 - [Bluez]()
 
 

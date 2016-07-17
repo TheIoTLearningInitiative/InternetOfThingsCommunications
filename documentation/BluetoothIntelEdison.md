@@ -6,7 +6,10 @@
 # Setup
 
 ```sh
-
+root@edison:~# opkg install bluez5 bluez-hcidump
+Package bluez5 (5.37-r0) installed in root is up to date.
+Package bluez5 (5.37-r0) installed in root is up to date.
+root@edison:~# 
 ```
 
 # Pairing

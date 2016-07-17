@@ -3,7 +3,7 @@
 - [Intel® Edison Bluetooth Guide](http://www.intel.com/support/edison/sb/CS-035381.htm)
 - [Intel® Edison SPP](https://software.intel.com/en-us/articles/connecting-the-intel-edison-board-to-your-android-phone-with-serial-port-profile-spp)
 
-## Pairing
+# Pairing
 
 ```sh
     root@galileo:~# rfkill unblock bluetooth
@@ -19,7 +19,7 @@
     root@edison:~# ls /dev/rfcomm0
 ```
 
-## BlueTooth Headsets
+# BlueTooth Headsets
 
 ```sh
     root@edison:~# rfkill unblock bluetooth
@@ -34,5 +34,3 @@
     root@edison:~# paired-devices
     root@edison:~# remove 40:78:6A:26:4A:C1
 ```
-
-

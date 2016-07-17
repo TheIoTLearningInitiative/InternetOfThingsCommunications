@@ -21,6 +21,7 @@
        * [Bluetooth Specifications](documentation/BluetoothProfiles.md)
        * [Bluetooth Low Energy](documentation/BluetoothLowEnergy.md)
        * [Bluetooth Smart Mesh](documentation/BluetoothSmartMesh.md)
+       * Development Boards
        * Laboratory
            * [Linux](documentation/BluetoothLinux.md)
            * [Arduino](documentation/BluetoothArduino.md)
@@ -29,7 +30,6 @@
            * [Linux and Arduino](documentation/LinuxAndArduino.md)
            * Nordic
            * [Virtual Keyboard](documentation/BluetoothVirtualKeyboard.md)
-   * Development Boards
    * [LoRa](documentation/LoRa.md)
    * [RFID](documentation/RFID.md)
    * [ZigBee](documentation/ZigBee.md)

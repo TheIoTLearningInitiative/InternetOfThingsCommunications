@@ -27,6 +27,7 @@
            * [Linux](documentation/BluetoothProtocolStackLinux.md)
                * [HCITool](documentation/LinuxHcitool.md)
                * [BlueZ](documentation/LinuxBluez.md)
+               * L2Ping
        * [Development Boards](documentation/DevelopmentBoards.md)
            * [Intel Edison](documentation/BluetoothIntelEdison.md)
            * [Arduino](documentation/BluetoothArduino.md)

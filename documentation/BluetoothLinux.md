@@ -4,6 +4,8 @@
 
 # HCITool
 
+- [Adafruit HCITool](https://learn.adafruit.com/search?q=hcitool&)
+
 ```sh
 root@edison:~# hcitool lescan
 LE Scan ...

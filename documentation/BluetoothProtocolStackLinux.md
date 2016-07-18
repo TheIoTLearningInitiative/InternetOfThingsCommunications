@@ -262,3 +262,11 @@ To be able to launch gatttool from anywhere add it to the path:
 
 root@edison: export PATH=$PATH:~/bluez-5.24/attrib/
 ```
+
+# BTMon
+
+```sh
+root@edison:~# btmon 
+Bluetooth monitor ver 5.37
+= New Index: 98:4F:EE:04:1A:8C (BR/EDR,UART,hci0)               [hci0] 0.908322
+```

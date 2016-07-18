@@ -7,8 +7,8 @@
    * [Skills](documentation/Skills.md)
    * [Prerequisites](documentation/Prerequisites.md)
 * [Introduction](documentation/Introduction.md)
-   * [Software Defined Radio](documentation/SoftwareDefinedRadio.md)
    * Network Topologies
+   * [Software Defined Radio](documentation/SoftwareDefinedRadio.md)
    * [Wireshark](documentation/Wireshark.md)
 * [Connectivity](documentation/Connectivity.md)
    * [Serial](documentation/Serial.md)

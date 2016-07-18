@@ -25,6 +25,7 @@
            * [Bluetooth Smart Mesh](documentation/BluetoothSmartMesh.md)
        * [Protocol Stack](documentation/ProtocolStack.md)
            * [Linux](documentation/BluetoothProtocolStackLinux.md)
+               * HCITool
        * [Development Boards](documentation/DevelopmentBoards.md)
            * [Intel Edison](documentation/BluetoothIntelEdison.md)
            * [Arduino](documentation/BluetoothArduino.md)

@@ -12,7 +12,7 @@ Package bluez5 (5.37-r0) installed in root is up to date.
 root@edison:~# 
 ```
 
-# Pairing
+# Pairing Devices
 
 ```sh
 root@edison:~# rfkill unblock bluetooth

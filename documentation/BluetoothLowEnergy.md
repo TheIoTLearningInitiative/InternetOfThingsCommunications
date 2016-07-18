@@ -15,7 +15,7 @@
 
 ### Bleno
 
-> A Node.js module for implementing BLE (Bluetooth Low Energy) peripherals [](https://www.npmjs.com/package/bleno)
+> A Node.js module for implementing BLE (Bluetooth Low Energy) peripherals [Npm Page](https://www.npmjs.com/package/bleno)
 
 # iBeacon
 

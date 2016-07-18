@@ -24,6 +24,7 @@
        * [Bluetooth Smart Mesh](documentation/BluetoothSmartMesh.md)
        * [Development Boards](documentation/DevelopmentBoards.md)
            * [Linux Based](documentation/BluetoothLinux.md)
+           * Architecture
            * [Intel Edison](documentation/BluetoothIntelEdison.md)
            * [Arduino](documentation/BluetoothArduino.md)
        * Laboratory
@@ -32,7 +33,6 @@
            * Nordic
            * [Virtual Keyboard](documentation/BluetoothVirtualKeyboard.md)
            * [Reverse Engineering](documentation/BluetoothReverseEngineering.md)
-       * Architecture
    * [LoRa](documentation/LoRa.md)
    * [RFID](documentation/RFID.md)
    * [ZigBee](documentation/ZigBee.md)

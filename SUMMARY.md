@@ -26,6 +26,7 @@
        * [Protocol Stack](documentation/ProtocolStack.md)
            * [Linux](documentation/BluetoothProtocolStackLinux.md)
                * [HCITool](documentation/LinuxHcitool.md)
+               * BlueZ
        * [Development Boards](documentation/DevelopmentBoards.md)
            * [Intel Edison](documentation/BluetoothIntelEdison.md)
            * [Arduino](documentation/BluetoothArduino.md)

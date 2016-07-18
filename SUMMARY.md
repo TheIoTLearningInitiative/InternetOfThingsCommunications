@@ -23,7 +23,6 @@
            * [Bluetooth Specifications](documentation/BluetoothProfiles.md)
            * [Bluetooth Low Energy](documentation/BluetoothLowEnergy.md)
            * [Bluetooth Smart Mesh](documentation/BluetoothSmartMesh.md)
-           * Tbd
        * [Development Boards](documentation/DevelopmentBoards.md)
            * Architecture
                * Tbd

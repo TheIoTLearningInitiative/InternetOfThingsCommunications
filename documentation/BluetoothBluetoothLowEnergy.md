@@ -3,6 +3,7 @@
 ## Bluetooth Low Energy Sniffer
 
 - [Bluetooth Sniffing in Linux ](https://www.youtube.com/watch?v=TPxw0V42p1o)
+- [Sniffing the Bluetooth pairing](http://seguridadmobile.blogspot.mx/2008/11/sniffing-bluetooth-pairing.html)
 
 ### Adafruit
 

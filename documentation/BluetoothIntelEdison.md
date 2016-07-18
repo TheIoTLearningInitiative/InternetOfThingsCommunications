@@ -27,6 +27,8 @@ root@edison:~# bluetoothctl
 [bluetooth]# 
 ````
 
+# RFComm
+
 ```sh
     root@galileo:~# rfkill unblock bluetooth
     root@galileo:~# bluetoothctl

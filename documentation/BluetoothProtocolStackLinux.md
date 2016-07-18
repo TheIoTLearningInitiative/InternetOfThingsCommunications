@@ -262,4 +262,3 @@ To be able to launch gatttool from anywhere add it to the path:
 
 root@edison: export PATH=$PATH:~/bluez-5.24/attrib/
 ```
-

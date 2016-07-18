@@ -1,5 +1,7 @@
 # Bluetooth Serial Port Protocol
 
+- [Turn on/off Intel® Edison Arduino* on board LED via Bluetooth SPP by using the Intel® IoT Developer Kit](https://software.intel.com/en-us/articles/turn-onoff-edison-arduino-on-bd-led-via-bluetooth-spp-by-iot-dev-kit)
+
 # Intel Edison
 
 - [Intel® Edison SPP](https://software.intel.com/en-us/articles/connecting-the-intel-edison-board-to-your-android-phone-with-serial-port-profile-spp)

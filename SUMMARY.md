@@ -29,6 +29,7 @@
                * [BlueZ](documentation/LinuxBluez.md)
                * [L2Ping](documentation/LinuxL2ping.md)
                * [SDPTool](documentation/LinuxSdptool.md)
+               * GATTTool
        * [Development Boards](documentation/DevelopmentBoards.md)
            * [Intel Edison](documentation/BluetoothIntelEdison.md)
            * [Arduino](documentation/BluetoothArduino.md)

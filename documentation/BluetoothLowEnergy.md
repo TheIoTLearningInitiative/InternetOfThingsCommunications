@@ -11,6 +11,12 @@
 
 > Using a special firmware image provided by Nordic Semiconductors and the open source network analysis tool Wireshark, the Bluefruit LE Sniffer can be used as a low cost Bluetooth Low Energy sniffer. [Introducing the Adafruit Bluefruit LE Sniffer](https://learn.adafruit.com/introducing-the-adafruit-bluefruit-le-sniffer/introduction)
 
+## Libraries
+
+### Bleno
+
+>  [](https://www.npmjs.com/package/bleno)
+
 # iBeacon
 
 > iBeacon is a protocol developed by Apple and introduced at the Apple Worldwide Developers Conference in 2013. Various vendors have since made iBeacon-compatible hardware transmitters - typically called beacons - a class of Bluetooth low energy (LE) devices that broadcast their identifier to nearby portable electronic devices. The technology enables smartphones, tablets and other devices to perform actions when in close proximity to an iBeacon. [Wikipedia](https://en.wikipedia.org/wiki/IBeacon)

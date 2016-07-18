@@ -25,8 +25,8 @@
        * [Bluetooth Low Energy](documentation/BluetoothLowEnergy.md)
        * [Bluetooth Smart Mesh](documentation/BluetoothSmartMesh.md)
        * [Development Boards](documentation/DevelopmentBoards.md)
-           * [Linux Based](documentation/BluetoothLinux.md)
            * Architecture
+           * [Linux Based](documentation/BluetoothLinux.md)
            * [Intel Edison](documentation/BluetoothIntelEdison.md)
            * [Arduino](documentation/BluetoothArduino.md)
        * Laboratory

@@ -26,8 +26,6 @@
        * [Protocol Stack](documentation/ProtocolStack.md)
            * [Linux](documentation/BluetoothProtocolStackLinux.md)
        * [Development Boards](documentation/DevelopmentBoards.md)
-           * Architecture
-               * Tbd
            * [Linux Based](documentation/BluetoothLinux.md)
            * [Intel Edison](documentation/BluetoothIntelEdison.md)
            * [Arduino](documentation/BluetoothArduino.md)

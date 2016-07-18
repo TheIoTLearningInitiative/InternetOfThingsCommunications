@@ -32,6 +32,7 @@
            * Nordic
            * [Virtual Keyboard](documentation/BluetoothVirtualKeyboard.md)
            * [Reverse Engineering](documentation/BluetoothReverseEngineering.md)
+       * Architecture
    * [LoRa](documentation/LoRa.md)
    * [RFID](documentation/RFID.md)
    * [ZigBee](documentation/ZigBee.md)

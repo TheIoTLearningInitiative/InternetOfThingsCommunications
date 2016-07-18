@@ -23,6 +23,7 @@
            * [Bluetooth Specifications](documentation/BluetoothProfiles.md)
            * [Bluetooth Low Energy](documentation/BluetoothLowEnergy.md)
            * [Bluetooth Smart Mesh](documentation/BluetoothSmartMesh.md)
+       * Protocol Stack
        * [Development Boards](documentation/DevelopmentBoards.md)
            * Architecture
                * Tbd
@@ -35,7 +36,6 @@
            * Nordic
            * [Virtual Keyboard](documentation/BluetoothVirtualKeyboard.md)
            * [Reverse Engineering](documentation/BluetoothReverseEngineering.md)
-       * Protocol Stack
    * [LoRa](documentation/LoRa.md)
    * [RFID](documentation/RFID.md)
    * [ZigBee](documentation/ZigBee.md)

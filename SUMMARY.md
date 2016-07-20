@@ -50,6 +50,7 @@
    * [SigFox](documentation/SigFox.md)
    * Satellite
    * Near Field Communication
+   * Neul
 * [Protocols](documentation/Protocols.md)
    * [Web](documentation/Web.md)
    * [Industrial Protocols](documentation/IndustrialProtocols.md)

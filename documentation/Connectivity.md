@@ -4,8 +4,6 @@
 
 > Forbes reported that during 2015 4,800 connected end points are added every minute, and a prediction of [McKinsey & Company](http://www.mckinsey.com/insights/high_tech_telecoms_internet/the_internet_of_things_sizing_up_the_opportunity) forecasts 30 billion IoT objects connected by 2020.
 
-![IoT Prediction](IoTPrediction2.PNG)
-
 > Nowadays, we cannot predict exactly how communication protocols will evolve, but we can breakdown wireless communication protocols in 6 standards:
 
 1. Satellite
@@ -16,6 +14,10 @@
 6. NFC
 
 - [Meta Eca](https://metaeca.wordpress.com/)
+
+# Wireless Technologies
+
+- [](http://mwrf.com/systems/wireless-technologies-flood-iot-landscape)
 
 ## Satellite
 > 

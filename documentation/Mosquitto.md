@@ -146,6 +146,7 @@ Listen to those events with mosquitto_pub app or any mqtt cellphone application 
 ```sh
     root@board:~# mosquitto_sub -h test.mosquitto.org -p 1883 -t IoTComms/#
 ```
+
 Implement a threaded subscription function through MQTT Protocol using a test.mosquitto.org server under "IoTComms/Message" topic
 
 ```sh

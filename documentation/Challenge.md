@@ -30,7 +30,7 @@ Section [Link](url)
 
 __Instruction__
 
-> Implement a function to send the data from functionDataSensor through Bluetooth to an existing Android application (Android BlueTerm Application) using the SPP protocol
+> Implement a function to send the data from functionDataSensor under main.py through Bluetooth to an existing Android application (Android BlueTerm Application) using the SPP protocol
 
 # 04 Connectivity Bluetooth Serial Port Profile Arduino 101
 
@@ -38,7 +38,7 @@ Section [Link](url)
 
 __Instruction__
 
-> Implement a function to send the data from functionDataSensor through Bluetooth to an Arduino 101
+> Implement a function to send the data from functionDataSensor under main.py through Bluetooth to an Arduino 101
 
 # 05 Connectivity Bluetooth The Tile App
 

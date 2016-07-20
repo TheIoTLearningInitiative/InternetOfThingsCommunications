@@ -8,15 +8,8 @@
 - [Sparkfun Exploring the Protocols of IoT](https://www.sparkfun.com/news/1705)
 - [11 Internet of Things (IoT) Protocols You Need to Know About](http://www.rs-online.com/designspark/electronics/knowledge-item/eleven-internet-of-things-iot-protocols-you-need-to-know-about)
 
-
-
-
-
-
-
-## Others
+# Protocols to review
 
 - SOAP, UPnP, RPL
-- VSCP (Very Simple Control Protocol) - the leading m2m and telematics protocol
 
 

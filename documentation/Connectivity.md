@@ -20,19 +20,14 @@
 - [Wireless Technologies Flood the IoT Landscape](http://mwrf.com/systems/wireless-technologies-flood-iot-landscape)
 - [Making Connections in the IoT Cloud](http://mwrf.com/systems/making-connections-iot-cloud)
 
-## Technologies
+# Technologies
 
-### Low Range
-
-3G, GPRS, LoRa, Sigfox, 868 MHz, 900 MHz
-
-### Medium Range
-
-ZigBee, 802.15.4
-
-### Short Range
-
-WiFi, RFID, NFC, BlueTooth 4.0
+- Low Range
+  - 3G, GPRS, LoRa, Sigfox, 868 MHz, 900 MHz
+- Medium Range
+  - ZigBee, 802.15.4
+- Short Range
+  - WiFi, RFID, NFC, BlueTooth 4.0
 
 
 Connectivity

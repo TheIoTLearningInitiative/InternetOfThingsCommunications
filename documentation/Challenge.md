@@ -46,4 +46,4 @@ Section [Link](url)
 
 __Instruction__
 
-> Implement a "The Tile App" like solution using your Intel Edison and your Phone
+> Implement a [The Tile App](https://www.thetileapp.com/) like solution using your Intel Edison and your Phone

@@ -53,7 +53,7 @@
    * [Web](documentation/Web.md)
    * [Industrial Protocols](documentation/IndustrialProtocols.md)
    * [MQ Telemetry Transport](documentation/MQTT.md)
-       * [Mosquitto](docuemntation/Mosquitto.md)
+       * [Mosquitto](documentation/Mosquitto.md)
        * [Security](documentation/MqttSecurity.md)
    * [Advanced Message Queuing Protocol](documentation/AMQP.md)
    * [Weave](documentation/Weave.md)

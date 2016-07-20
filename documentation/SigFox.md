@@ -4,5 +4,4 @@
 
 # Hardware
 
-[EZRadioPRO wireless development kit
-](http://uk.rs-online.com/web/p/radio-frequency-development-kits/7594925/?cm_mmc=UK-DS-WEB-_-designspark-_-7594925)
+[EZRadioPRO wireless development kit](http://uk.rs-online.com/web/p/radio-frequency-development-kits/7594925/?cm_mmc=UK-DS-WEB-_-designspark-_-7594925)

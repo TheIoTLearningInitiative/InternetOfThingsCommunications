@@ -17,7 +17,11 @@
 5. Bluetooth
 6. NFC
 
-- [Meta Eca](https://metaeca.wordpress.com/)
+# Software
+
+> meta-eca is a Yocto layer that is concentrating on networking and it ties together various open source connectivity components like ConnMan for connection management,
+oFono for cellular access, BlueZ for Bluetooth connectivity and neard for NFC support.
+ECA (Embedded Connectivity Appliance) is a platform for prototyping networking technologies. A mobile access point is created here using the meta-eca layer [Meta Eca](https://metaeca.wordpress.com/)
 
 # Wireless Technologies
 

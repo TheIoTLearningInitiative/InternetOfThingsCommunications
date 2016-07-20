@@ -39,3 +39,11 @@ Section [Link](url)
 __Instruction__
 
 > Implement a function to send the data from functionDataSensor through Bluetooth to an Arduino 101
+
+# 05 Connectivity Bluetooth The Tile App
+
+Section [Link](url)
+
+__Instruction__
+
+> Implement a function to send the data from functionDataSensor through Bluetooth to an Arduino 101

@@ -56,8 +56,7 @@ As subscriber
 As publisher
 
 ```sh
-    root@platform:~# mosquitto_pub -h test.mosquitto.org -p 1883 -t workshop/galileo -m "Hello Galileo Operators!"
-    root@platform:~# mosquitto_pub -h test.mosquitto.org -p 1883 -t workshop/edison -m "Hello Edison Operators!"
+    root@platform:~# mosquitto_pub -h test.mosquitto.org -p 1883 -t workshop/communications -m "Hello Communications Learners!"
 ```
 
 As subscriber

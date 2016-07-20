@@ -10,6 +10,9 @@
 
 > In this installment of our IoT 101 series we discuss how to select network protocols based on the way you want to interact with your IoT... [Artik.Io IoT 101 Networks](https://www.artik.io/blog/2015/iot-101-networks) 
 
+- [11 Internet of Things (IoT) Protocols You Need to Know About](http://www.rs-online.com/designspark/electronics/knowledge-item/eleven-internet-of-things-iot-protocols-you-need-to-know-about)
+
+
 1. Satellite
 2. WiFi
 3. Radio Frequency (RF)

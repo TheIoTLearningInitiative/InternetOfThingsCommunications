@@ -50,7 +50,7 @@
    * [SigFox](documentation/SigFox.md)
    * Satellite
 * [Protocols](documentation/Protocols.md)
-   * Web
+   * [Web](documentation/Web.md)
    * [Industrial Protocols](documentation/IndustrialProtocols.md)
    * [MQ Telemetry Transport](documentation/MQTT.md)
        * [Security](documentation/MqttSecurity.md)

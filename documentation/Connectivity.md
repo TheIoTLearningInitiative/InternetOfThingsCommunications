@@ -6,6 +6,11 @@
 
 > Nowadays, we cannot predict exactly how communication protocols will evolve, but we can breakdown wireless communication protocols in 6 standards:
 
+> Artik.Io This is the first in a series of tutorials we’re calling IoT 101... [Artik IoT 101 Connectivity](https://www.artik.io/blog/2015/iot-101-connectivity)
+
+> In this installment of our IoT 101 series we discuss how to select network protocols based on the way you want to interact with your IoT... [Artik.Io IoT 101 Networks](https://www.artik.io/blog/2015/iot-101-networks) 
+
+
 1. Satellite
 2. WiFi
 3. Radio Frequency (RF)
@@ -30,12 +35,6 @@
   - WiFi, RFID, NFC, BlueTooth 4.0
 
 
-Connectivity
-==
-
-> Artik.Io This is the first in a series of tutorials we’re calling IoT 101... [Artik IoT 101 Connectivity](https://www.artik.io/blog/2015/iot-101-connectivity)
-
-> In this installment of our IoT 101 series we discuss how to select network protocols based on the way you want to interact with your IoT... [Artik.Io IoT 101 Networks](https://www.artik.io/blog/2015/iot-101-networks) 
 
 ## Telephony
 

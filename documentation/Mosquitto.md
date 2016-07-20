@@ -119,7 +119,7 @@ def dataNetworkHandler():
         packets = dataNetwork()
         message = idDevice + " " + str(packets)
         print "MQTT dataNetworkHandler " + message
-        mqttclient.publish("IoTComms/Network", message)
+        mqttclient.publish("IoTComms/Mqtt", message)
         time.sleep(1)
 
 if __name__ == '__main__':

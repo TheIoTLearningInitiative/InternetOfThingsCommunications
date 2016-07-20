@@ -50,7 +50,7 @@ Go to http://test.mosquitto.org/gauge/ and execute
 As subscriber
 
 ```sh
-    root@platform:~# mosquitto_sub -h test.mosquitto.org -p 1883 -t workshop/galileo
+    root@platform:~# mosquitto_sub -h test.mosquitto.org -p 1883 -t workshop/communications
 ```
 
 As publisher

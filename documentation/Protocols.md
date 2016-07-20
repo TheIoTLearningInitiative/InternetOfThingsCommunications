@@ -9,10 +9,6 @@
 
 Tbd
 
-## LoraWAN
-
-- https://www.lora-alliance.org/
-
 
 Protocols
 ==

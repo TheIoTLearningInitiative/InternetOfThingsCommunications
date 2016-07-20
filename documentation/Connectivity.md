@@ -40,7 +40,6 @@ ECA (Embedded Connectivity Appliance) is a platform for prototyping networking t
   - WiFi, RFID, NFC, BlueTooth 4.0
 
 
-
 ## Telephony
 
 3G, 4G, LTE

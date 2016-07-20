@@ -8,7 +8,7 @@
 
 [Mosquitto Homepage](http://mosquitto.org/)
 
-### Mosquitto Intel® Edison Setup
+# Mosquitto Intel® Edison Setup
 
 - [Building and running Mosquitto MQTT on Intel Edison](https://software.intel.com/en-us/blogs/2015/02/20/building-and-running-mosquitto-mqtt-on-intel-edison)
 - [Connecting Sensor Networks and Devices to the Cloud in just minutes: Solution Brief](https://software.intel.com/sites/default/files/managed/52/10/IBM_Connecting_Sensor_Networks_and_Devices_Cloud_Minutes_Rev1_2.pdf)

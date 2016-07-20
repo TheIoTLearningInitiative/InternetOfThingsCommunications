@@ -51,6 +51,7 @@
    * Satellite
 * [Protocols](documentation/Protocols.md)
    * [Industrial Protocols](documentation/IndustrialProtocols.md)
+   * Web
    * [MQ Telemetry Transport](documentation/MQTT.md)
        * [Security](documentation/MqttSecurity.md)
    * [Advanced Message Queuing Protocol](documentation/AMQP.md)
@@ -64,7 +65,6 @@
    * [Lightweight M2M](documentation/LightweightM2M.md)
    * [Cap'n Proto](documentation/CapNProto.md)
    * [IPv6](documentation/IPv6.md)
-   * Web
 * [Libraries](documentation/Libraries.md)
    * [ZeroMQ](documentation/ZeroMq.md)
 * Wrap-Up

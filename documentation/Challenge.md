@@ -6,6 +6,7 @@ With this step by step challenge you will have a parallel learning experience of
 02. Connectivity Serial Zephyr
 03. Connectivity Bluetooth Serial Port Profile Android App
 04. Connectivity Bluetooth Serial Port Profile Arduino 101
+05. Connectivity Bluetooth The Tile App
 
 # 01 Connectivity Serial Arduino IDE
 

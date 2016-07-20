@@ -39,24 +39,4 @@ ECA (Embedded Connectivity Appliance) is a platform for prototyping networking t
 - Short Range
   - WiFi, RFID, NFC, BlueTooth 4.0
 
-## LoRa
-
-> LoRa® Alliance is an open, non-profit association of members that believe the internet of things era is now. Our mission to standardize Low Power Wide Area Networks (LPWAN) being deployed around the world to enable Internet of Things (IoT), machine-to-machine (M2M), and smart city, and industrial applications. The Alliance members will collaborate to drive the global success of the LoRa protocol (LoRaWAN), by sharing knowledge and experience to guarantee interoperability between operators in one open global standard.
-
-> LoRaWAN is designed to provide Low Power Wide Area Network with features specifically needed to support low-cost, mobile, secure bi-directional communication for Internet of Things (IoT), machine-to-machine (M2M), and smart city, and industrial applications. It is optimized for low power consumption and to support large networks with millions and millions of devices. It has innovative features, support redundant operation, location, low-cost, low-power and can even run on energy harvesting technologies enabling the mobility and ease of use to Internet of Things.
-
-- [LoRa Homepage](https://www.lora-alliance.org/)
-
-## ZigBee
-
-> ZigBee is a specification for a suite of high-level communication protocols used to create personal area networks built from small, low-power digital radios. ZigBee is based on an IEEE 802.15.4 standard. Its low power consumption limits transmission distances to 10–100 meters line-of-sight, depending on power output and environmental characteristics ... *From Wikipedia, the free encyclopedia*
-
-[ZigBee Alliance](http://www.zigbee.org/)
-
-## Z-Wave
-
-> Z-Wave is a wireless communications specification designed to allow devices in the home (lighting, access controls, entertainment systems and household appliances, for example) to communicate with one another for the purposes of home automation ... *From Wikipedia, the free encyclopedia*
-
-- [Z-Wave Homepage](http://www.z-wave.com/)
-- [Post Z-Wave Data to Node Red](https://www.ibm.com/developerworks/community/blogs/cee6c09c-a315-4b04-ad14-57d6a60fa8bb/entry/post_z_wave_data_to_node_red?lang=en)
 

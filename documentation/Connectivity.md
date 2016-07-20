@@ -13,7 +13,7 @@
 - [11 Internet of Things (IoT) Protocols You Need to Know About](http://www.rs-online.com/designspark/electronics/knowledge-item/eleven-internet-of-things-iot-protocols-you-need-to-know-about)
 - [Wireless connectivity for the Internet of Things](http://www.ti.com/lit/wp/swry010/swry010.pdf)
 - [IoT Wireless Technologies OR IoT Wireless Standards](http://www.rfwireless-world.com/Terminology/IoT-wireless-technologies.html)
-- [](5 Types of Wireless Technology For The IoT)
+- [5 Types of Wireless Technology For The IoT](5 Types of Wireless Technology For The IoT)
 
 # Software
 

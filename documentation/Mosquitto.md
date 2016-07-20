@@ -192,7 +192,7 @@ def dataMessageHandler():
     mqttclient = paho.Client()
     mqttclient.on_message = on_message
     mqttclient.connect("test.mosquitto.org", 1883, 60)
-    mqttclient.subscribe("IoT101/Message", 0)
+    mqttclient.subscribe("IoTComms/Message", 0)
     while mqttclient.loop() == 0:
         pass
 

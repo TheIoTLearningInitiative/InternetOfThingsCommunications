@@ -207,7 +207,7 @@ if __name__ == '__main__':
     threadx.start()
 
     while True:
-        print "Hello Internet of Things 101"
+        print "Hello IoT Communications MQTT"
         time.sleep(5)
 
 

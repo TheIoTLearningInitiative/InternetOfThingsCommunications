@@ -16,4 +16,5 @@ Wi-Fi Radio Spectrum
 - [Privacy in WiFi Analytics](http://www.privacysig.org/uploads/3/0/1/4/30147215/privacyinwifianalytics.pdf)
 - [Intel® Edison Wi-Fi Guide](https://software.intel.com/en-us/articles/intel-edison-wi-fi-guide)
 - [Lowest Power WiFi in the World: Atmel | SMART SAM W25 Wi-Fi for IoT with ARM Cortex-M0+](https://www.youtube.com/watch?v=pOFU0KCly80)
+- [Texas Isntruments CC3200 SimpleLink™ Wi-Fi® and Internet-of-Things solution, a Single-Chip Wireless MCU](http://www.ti.com/product/cc3200)
 

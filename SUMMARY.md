@@ -67,6 +67,7 @@
    * [Cap'n Proto](documentation/CapNProto.md)
    * [IPv6](documentation/IPv6.md)
    * RPL
+   * Very Simple Control Protocol
 * [Libraries](documentation/Libraries.md)
    * [ZeroMQ](documentation/ZeroMq.md)
 * Wrap-Up

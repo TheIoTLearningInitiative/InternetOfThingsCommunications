@@ -46,4 +46,4 @@ Section [Link](url)
 
 __Instruction__
 
-> Implement a function to send the data from functionDataSensor through Bluetooth to an Arduino 101
+> Implement a "The Tile App" like solution using your Intel Edison and your Phone

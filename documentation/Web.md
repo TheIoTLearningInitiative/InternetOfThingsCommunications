@@ -12,11 +12,11 @@
 
 - [Learn REST: A Tutorial](http://rest.elkstein.org/)
 
-### API Creation
+## API Creation
 
 > Creating and exposing APIs allows your web application to interact with other applications through machine-to-machine communication. API creation frameworks... [FullStackPython](http://www.fullstackpython.com/api-creation.html)
 
-### Flask
+## Flask
 
 > Flask is a microframework for Python based on Werkzeug, Jinja 2 and good intentions. [Flask Homepage](http://flask.pocoo.org/)
 
@@ -34,7 +34,7 @@
     root@board:~# 
 ```
 
-### Flask-RESTful
+## Flask-RESTful
 
 > Flask-RESTful is an extension for Flask that adds support for quickly building REST APIs. It is a lightweight abstraction that works with your existing ORM/libraries. Flask-RESTful encourages best practices with minimal setup. If you are familiar with Flask, Flask-RESTful should be easy to pick up. [Flask-RESTful Documentation](http://flask-restful.readthedocs.org/en/latest/index.html)
 
@@ -52,7 +52,7 @@
     root@board:~# 
 ```
 
-### Project
+## Project
 
 ```sh
     root@board:~# vi mainflask.py

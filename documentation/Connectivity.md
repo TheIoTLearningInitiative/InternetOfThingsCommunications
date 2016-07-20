@@ -12,7 +12,6 @@
 
 - [11 Internet of Things (IoT) Protocols You Need to Know About](http://www.rs-online.com/designspark/electronics/knowledge-item/eleven-internet-of-things-iot-protocols-you-need-to-know-about)
 
-
 1. Satellite
 2. WiFi
 3. Radio Frequency (RF)

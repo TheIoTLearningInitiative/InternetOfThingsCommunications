@@ -14,6 +14,7 @@
 - [Wireless connectivity for the Internet of Things](http://www.ti.com/lit/wp/swry010/swry010.pdf)
 - [IoT Wireless Technologies OR IoT Wireless Standards](http://www.rfwireless-world.com/Terminology/IoT-wireless-technologies.html)
 - [5 Types of Wireless Technology For The IoT](5 Types of Wireless Technology For The IoT)
+- [](http://anuva.com/blog/iot-wireless-technologies/)
 
 # Software
 

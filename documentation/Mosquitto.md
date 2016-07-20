@@ -51,7 +51,6 @@ As subscriber
 
 ```sh
     root@platform:~# mosquitto_sub -h test.mosquitto.org -p 1883 -t workshop/galileo
-    root@platform:~# mosquitto_sub -h test.mosquitto.org -p 1883 -t workshop/edison
 ```
 
 As publisher

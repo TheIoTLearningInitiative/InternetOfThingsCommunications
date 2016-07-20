@@ -1,5 +1,4 @@
 # Protocols
-==
 
 - [IoT request response protocol](http://codesanswer.com/question/261384-iot-request-response-protocol)
 - [The Internet of Things: Key Applications and Protocols](http://techbus.safaribooksonline.com/book/information-technology-and-software-development/9781119994350)

@@ -68,7 +68,7 @@ As subscriber
 As publisher
 
 ```sh
-    root@platform:~# mosquitto_pub -h test.mosquitto.org -p 1883 -t workshop/all -m "Hello All Operators!"
+    root@platform:~# mosquitto_pub -h test.mosquitto.org -p 1883 -t workshop/all -m "Hello All Learners!"
 ```
 
 See output for the following command
@@ -77,7 +77,7 @@ See output for the following command
     root@platform:~# mosquitto_sub -h test.mosquitto.org -t "#" -v
 ```
 
-### Project
+# Project
 
 > Eclipse Paho MQTT Python client library, which implements versions 3.1 and 3.1.1 of the MQTT protocol.
 

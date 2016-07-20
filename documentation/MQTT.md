@@ -59,7 +59,7 @@ Quality of Services
 - [Eclipse MQTT](http://iot.eclipse.org/getting-started#tutorials)
 - [MQTT Dashboard](broker.mqtt-dashboard.com)
 
-#### Mosquitto
+# Mosquitto
 
 > Mosquitto is an open source (BSD licensed) message broker that implements the MQ Telemetry Transport protocol versions 3.1 and 3.1.1. MQTT provides a lightweight method of carrying out messaging using a publish/subscribe model.
 

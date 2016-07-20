@@ -65,6 +65,7 @@
    * [Lightweight M2M](documentation/LightweightM2M.md)
    * [Cap'n Proto](documentation/CapNProto.md)
    * [IPv6](documentation/IPv6.md)
+   * RPL
 * [Libraries](documentation/Libraries.md)
    * [ZeroMQ](documentation/ZeroMq.md)
 * Wrap-Up

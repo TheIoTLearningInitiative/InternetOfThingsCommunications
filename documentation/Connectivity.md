@@ -45,17 +45,6 @@ ECA (Embedded Connectivity Appliance) is a platform for prototyping networking t
 3G, 4G, LTE
 
 
-### WiFi HaLow
-
-> Wi-Fi HaLow operates in frequency bands below one gigahertz, offering longer range, lower power connectivity
-
-- [Wi-Fi Alliance® introduces low power, long range Wi-Fi HaLow™](https://www.wi-fi.org/news-events/newsroom/wi-fi-alliance-introduces-low-power-long-range-wi-fi-halow)
-
-## Wi-Gig
-
-> The WiGig specification allows devices to communicate without wires at multi-gigabit speeds. It enables high performance wireless data, display and audio applications that supplement the capabilities of previous wireless LAN devices. Wikipedia
-
-- [Wireless Gigabit Alliance Wikipedia](https://en.wikipedia.org/wiki/Wireless_Gigabit_Alliance)
 
 ## Bluetooth
 

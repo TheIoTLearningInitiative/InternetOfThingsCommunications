@@ -4,6 +4,10 @@
 
 > These sit on top of HTTP, thus suffering from the same limitations as HTTP. Many of these protocols also require extensive processing and have a huge code size footprint. Many service providers promote the use of these protocols since their backend infrastructure is based on standard web servers that cannot handle any other type of protocol than HTTP.
 
+# WebScokets
+
+# XMPP
+
 # RESTful API (Representational State Transfer)
 
 > In computing, representational state transfer (REST) is the software architectural style of the World Wide Web. REST's coordinated set of constraints, applied to the design of components in a distributed hypermedia system, can lead to a higher-performing and more maintainable software architecture. [Wikipedia](https://en.wikipedia.org/wiki/Representational_state_transfer)

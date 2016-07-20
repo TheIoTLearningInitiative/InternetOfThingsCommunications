@@ -49,6 +49,7 @@
    * [HomeKit](documentation/HomeKit.md)
    * [SigFox](documentation/SigFox.md)
    * Satellite
+   * Near Field Communication
 * [Protocols](documentation/Protocols.md)
    * [Web](documentation/Web.md)
    * [Industrial Protocols](documentation/IndustrialProtocols.md)

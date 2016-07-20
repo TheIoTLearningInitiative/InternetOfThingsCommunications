@@ -221,5 +221,5 @@ if __name__ == '__main__':
 Confirm you are receiving those events publishing from another device
 
 ```sh
-    root@board:~# mosquitto_pub -h test.mosquitto.org -p 1883 -t IoT101/Message -m Hi
+    root@board:~# mosquitto_pub -h test.mosquitto.org -p 1883 -t IoTComms/Message -m Hi
 ```

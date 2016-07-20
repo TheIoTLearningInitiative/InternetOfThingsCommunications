@@ -16,6 +16,7 @@
 - [5 Types of Wireless Technology For The IoT](5 Types of Wireless Technology For The IoT)
 - [The Ultimate Guide On IoT Wireless Technologies](http://anuva.com/blog/iot-wireless-technologies/)
 - [How to Think about the Internet of Things (IoT)](https://www.micrium.com/iot/devices/)
+- [China Telecom targets nationwide NB-IoT coverage in 2017](http://www.mobileworldlive.com/asia/asia-news/china-telecom-targets-nationwide-nb-iot-coverage-next-year/)
 
 # Software
 

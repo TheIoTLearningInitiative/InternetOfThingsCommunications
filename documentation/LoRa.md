@@ -11,7 +11,7 @@
 
 ## LoraWAN
 
-- https://www.lora-alliance.org/
+Tbd
 
 # LoRa Hacking
 

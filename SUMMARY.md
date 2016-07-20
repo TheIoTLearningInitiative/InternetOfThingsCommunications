@@ -31,7 +31,7 @@
                * [SDPTool](documentation/LinuxSdptool.md)
                * [GATTTool](documentation/LinuxGatttool.md)
                * [BTMon](documentation/LinuxBtmon.md)
-               * BTProxy
+               * [BTProxy](documentation/BTProxy.md)
        * [Development Boards](documentation/DevelopmentBoards.md)
            * [Intel Edison](documentation/BluetoothIntelEdison.md)
            * [Arduino](documentation/BluetoothArduino.md)

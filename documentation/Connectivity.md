@@ -45,4 +45,3 @@ ECA (Embedded Connectivity Appliance) is a platform for prototyping networking t
 # Texas Instruments
 
 - [CC2520 (ACTIVE) Second generation 2.4 GHz ZigBee/IEEE 802.15.4 RF transceiver](http://www.ti.com/product/CC2520)
-

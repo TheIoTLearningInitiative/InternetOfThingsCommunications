@@ -42,3 +42,6 @@ ECA (Embedded Connectivity Appliance) is a platform for prototyping networking t
   - WiFi, RFID, NFC, BlueTooth 4.0
 
 
+# Texas Instruments
+
+- [](http://www.ti.com/product/CC2520)

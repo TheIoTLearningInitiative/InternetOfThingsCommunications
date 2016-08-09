@@ -17,8 +17,6 @@
 - [Learn REST: A Tutorial](http://rest.elkstein.org/)
 - [Cisco DevNet REST](https://developer.cisco.com/site/devnet/learn/coding-101-tutorial/#rest-in-action:-now-let's-try-it!)
 
-
-
 ## API Creation
 
 > Creating and exposing APIs allows your web application to interact with other applications through machine-to-machine communication. API creation frameworks... [FullStackPython](http://www.fullstackpython.com/api-creation.html)

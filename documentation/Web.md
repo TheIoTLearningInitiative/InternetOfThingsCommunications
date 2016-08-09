@@ -6,6 +6,8 @@
 
 > These sit on top of HTTP, thus suffering from the same limitations as HTTP. Many of these protocols also require extensive processing and have a huge code size footprint. Many service providers promote the use of these protocols since their backend infrastructure is based on standard web servers that cannot handle any other type of protocol than HTTP.
 
+- [Cisco DevNet REST](https://developer.cisco.com/site/devnet/learn/coding-101-tutorial/#rest-in-action:-now-let's-try-it!)
+
 # XMPP
 
 # RESTful API (Representational State Transfer)

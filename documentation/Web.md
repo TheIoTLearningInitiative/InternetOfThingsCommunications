@@ -15,6 +15,9 @@
 > To the extent that systems conform to the constraints of REST they can be called RESTful. RESTful systems typically, but not always, communicate over Hypertext Transfer Protocol (HTTP) with the same HTTP verbs (GET, POST, PUT, DELETE, etc.) that web browsers use to retrieve web pages and to send data to remote servers.[4] REST systems interface with external systems as web resources identified by Uniform Resource Identifiers (URIs), for example /people/tom, which can be operated upon using standard verbs such as DELETE /people/tom. [Wikipedia](https://en.wikipedia.org/wiki/Representational_state_transfer) 
 
 - [Learn REST: A Tutorial](http://rest.elkstein.org/)
+- [Cisco DevNet REST](https://developer.cisco.com/site/devnet/learn/coding-101-tutorial/#rest-in-action:-now-let's-try-it!)
+
+
 
 ## API Creation
 

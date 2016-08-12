@@ -7,3 +7,4 @@
 - [RAIN RFID Homepage](http://rainrfid.org/)
 - [EPC/RFID Standards](http://www.gs1.org/epc-rfid)
 - [RFID Resources](http://resources.impinj.com/h/)
+- [Throwback Thursday: RAIN RFID Tag Evolution](http://resources.impinj.com/h/i/279457197-throwback-thursday-rain-rfid-tag-evolution?utm_campaign=Content+Misc&utm_source=hs_email&utm_medium=email&utm_content=32844915&_hsenc=p2ANqtz-9I0Sr-9-Kda5qxh8IHrOQndOjYYXpf5teTBe2Pejet8dhmdPomsH8bwLYVltCzKVwdQvqfiOwO68Ms5W7w_km1dbLbHsvxhD6CteFHFhRpzev6b64&_hsmi=32844915)

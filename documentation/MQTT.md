@@ -63,5 +63,4 @@ Quality of Services
 
 ## MQTT IO
 
-> Introducing the Fastest, Infinitely Scalable, No BS, MQTT Cloud Service on the Planet!
-http://www.mqtt.io/
+> Introducing the Fastest, Infinitely Scalable, No BS, MQTT Cloud Service on the Planet! [Homepage](http://www.mqtt.io/)

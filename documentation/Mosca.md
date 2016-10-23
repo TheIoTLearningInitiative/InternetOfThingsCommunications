@@ -1,3 +1,3 @@
 # Mosca
 
-[](http://www.mosca.io/)
+> MQTT broker as a module [Homepage](http://www.mosca.io/)

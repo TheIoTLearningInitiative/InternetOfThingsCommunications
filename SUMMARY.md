@@ -57,9 +57,9 @@
    * [Web](documentation/Web.md)
    * [Industrial Protocols](documentation/IndustrialProtocols.md)
    * [MQ Telemetry Transport](documentation/MQTT.md)
+       * Mosca
        * [Mosquitto](documentation/Mosquitto.md)
        * [Security](documentation/MqttSecurity.md)
-       * Mosca
    * [Advanced Message Queuing Protocol](documentation/AMQP.md)
    * [Weave](documentation/Weave.md)
    * [Constrained Application Protocol](documentation/ConstrainedApplicationProtocol.md)

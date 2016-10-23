@@ -132,5 +132,5 @@ void loop() {
 
 ```sh
 mosquitto_sub -h test.mosquitto.org -p 1883 -t outTopic
-mosquitto_pub -h test.mosquitto.org -p 1883 -t inTopic -m "1111"
+mosquitto_pub -h test.mosquitto.org -p 1883 -t inTopic -m "11"
 ```

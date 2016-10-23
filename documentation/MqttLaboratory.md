@@ -130,4 +130,6 @@ void loop() {
 }
 ```
 
+```sh
 mosquitto_sub -h test.mosquitto.org -p 1883 -t outTopic
+```

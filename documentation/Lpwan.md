@@ -1,8 +1,6 @@
 # Low-Power Wide-Area Networks (LPWAN)
 
-
-
-
+(https://en.wikipedia.org/wiki/LPWAN)
 
 ## Weightless
 

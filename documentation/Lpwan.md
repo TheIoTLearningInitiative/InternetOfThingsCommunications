@@ -1,4 +1,4 @@
-# LPWAN
+# Low-Power Wide-Area Networks (LPWAN)
 
 
 

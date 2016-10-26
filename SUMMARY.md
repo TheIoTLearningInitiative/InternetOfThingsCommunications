@@ -44,13 +44,13 @@
            * [Bluetooth Low Energy](documentation/BluetoothBluetoothLowEnergy.md)
    * [Low-Power Wide-Area Networks](documentation/Lpwan.md)
        * [LoRa](documentation/LoRa.md)
+       * [SigFox](documentation/SigFox.md)
        * Tbd
    * [RFID](documentation/RFID.md)
    * [ZigBee](documentation/ZigBee.md)
    * [Z-Wave](documentation/ZWave.md)
    * [Thread](documentation/Thread.md)
    * [HomeKit](documentation/HomeKit.md)
-   * [SigFox](documentation/SigFox.md)
    * Satellite
    * Near Field Communication
    * Neul

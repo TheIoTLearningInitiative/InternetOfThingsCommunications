@@ -42,6 +42,8 @@
            * [Virtual Keyboard](documentation/BluetoothVirtualKeyboard.md)
            * [Reverse Engineering](documentation/BluetoothReverseEngineering.md)
            * [Bluetooth Low Energy](documentation/BluetoothBluetoothLowEnergy.md)
+   * [Low-Power Wide-Area Networks](documentation/Lpwan.md)
+       * Tbd
    * [LoRa](documentation/LoRa.md)
    * [RFID](documentation/RFID.md)
    * [ZigBee](documentation/ZigBee.md)
@@ -75,8 +77,6 @@
    * RPL
    * Very Simple Control Protocol
    * [NATS](documentation/Nats.md)
-   * [Low-Power Wide-Area Networks](documentation/Lpwan.md)
-       * Tbd
 * [Libraries](documentation/Libraries.md)
    * [ZeroMQ](documentation/ZeroMq.md)
 * Wrap-Up

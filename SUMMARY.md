@@ -75,7 +75,7 @@
    * RPL
    * Very Simple Control Protocol
    * [NATS](documentation/Nats.md)
-   * [LPWAN](documentation/Lpwan.md)
+   * [Low-Power Wide-Area Networks](documentation/Lpwan.md)
 * [Libraries](documentation/Libraries.md)
    * [ZeroMQ](documentation/ZeroMq.md)
 * Wrap-Up

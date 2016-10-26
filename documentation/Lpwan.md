@@ -1,6 +1,6 @@
 # Low-Power Wide-Area Networks (LPWAN)
 
-(https://en.wikipedia.org/wiki/LPWAN)
+> Low-Power Wide-Area Network (LPWAN) or Low-Power Network (LPN) is a type of wireless telecommunication network designed to allow long range communications at a low bit rate among things (connected objects), such as sensors operated on a battery [LPWAN](https://en.wikipedia.org/wiki/LPWAN)
 
 ## Weightless
 

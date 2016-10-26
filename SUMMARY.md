@@ -43,8 +43,8 @@
            * [Reverse Engineering](documentation/BluetoothReverseEngineering.md)
            * [Bluetooth Low Energy](documentation/BluetoothBluetoothLowEnergy.md)
    * [Low-Power Wide-Area Networks](documentation/Lpwan.md)
+       * [LoRa](documentation/LoRa.md)
        * Tbd
-   * [LoRa](documentation/LoRa.md)
    * [RFID](documentation/RFID.md)
    * [ZigBee](documentation/ZigBee.md)
    * [Z-Wave](documentation/ZWave.md)

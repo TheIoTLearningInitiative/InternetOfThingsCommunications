@@ -62,8 +62,8 @@
        * [Mosca](documentation/Mosca.md)
        * [Mosquitto](documentation/Mosquitto.md)
        * [Security](documentation/MqttSecurity.md)
-       * [Laboratory](documentation/MqttLaboratory.md)
        * Applications
+       * [Laboratory](documentation/MqttLaboratory.md)
    * [Advanced Message Queuing Protocol](documentation/AMQP.md)
    * [Weave](documentation/Weave.md)
    * [Constrained Application Protocol](documentation/ConstrainedApplicationProtocol.md)

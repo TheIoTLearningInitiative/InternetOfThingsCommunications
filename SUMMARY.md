@@ -36,7 +36,7 @@
            * [Intel Edison](documentation/BluetoothIntelEdison.md)
            * [Arduino](documentation/BluetoothArduino.md)
        * Laboratory
-           * [Bluetooth SPP](documentation/BluetoothSpp.md)
+           * [Serial Port Protocol](documentation/BluetoothSpp.md)
            * [Linux and Arduino](documentation/LinuxAndArduino.md)
            * Nordic
            * [Virtual Keyboard](documentation/BluetoothVirtualKeyboard.md)

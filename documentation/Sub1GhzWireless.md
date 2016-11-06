@@ -8,6 +8,7 @@
 - 433 Mhz, Africa
 - 2.4 Ghz 433 Mhz, Global "Some Restrictions"
 - 415/433 Mhz, Asia Local ISM Bands
+- 470/433/779 MHz, China
 - 
 
 

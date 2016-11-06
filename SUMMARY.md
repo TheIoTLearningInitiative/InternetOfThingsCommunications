@@ -46,7 +46,6 @@
    * [Low-Power Wide-Area Networks](documentation/Lpwan.md)
        * [LoRa](documentation/LoRa.md)
        * [SigFox](documentation/SigFox.md)
-       * Tbd
    * [RFID](documentation/RFID.md)
    * [ZigBee](documentation/ZigBee.md)
    * [Z-Wave](documentation/ZWave.md)

@@ -1,6 +1,6 @@
 # Sub-1GHz Wireless
 
-# ISM Industrial, Cientific and medical
+# ISM Industrial, Cientific and Medical
 
 - 315/915 Mhz US, Canada, Mexico
 - 433 Mhz, Latin America

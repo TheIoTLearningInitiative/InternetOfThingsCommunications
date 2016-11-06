@@ -1,6 +1,6 @@
 # Sub-1GHz Wireless
 
-[TI Sub-1GHz Wireless Solutions for the IoT Series- Part 1 ](https://www.youtube.com/watch?v=CMUdxdxabNM)
+[TI Sub-1GHz Wireless Solutions for the IoT Series- Part 1](https://www.youtube.com/watch?v=CMUdxdxabNM)
 
 # ISM Industrial, Cientific and Medical
 

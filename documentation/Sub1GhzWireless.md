@@ -1,6 +1,6 @@
 # Sub-1GHz Wireless
 
-[Texas Instruments](https://www.youtube.com/watch?v=yQw2n_HJS2c)
+[TI Sub-1GHz Wireless Solutions for the IoT Series- Part 1 ](https://www.youtube.com/watch?v=CMUdxdxabNM)
 
 # ISM Industrial, Cientific and Medical
 

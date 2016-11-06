@@ -7,6 +7,7 @@
 - 433/868, Mhz, Europe
 - 433 Mhz, Africa
 - 2.4 Ghz 433 Mhz, Global "Some Restrictions"
+- 415/433 Mhz, Asia Local ISM Bands
 - 
 
 

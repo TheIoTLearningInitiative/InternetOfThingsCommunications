@@ -6,6 +6,7 @@
 - 433 Mhz, Latin America
 - 433/868, Mhz, Europe
 - 433 Mhz, Africa
+- 2.4 Ghz 433 Mhz, Global "Some Restrictions"
 - 
 
 

@@ -1,5 +1,7 @@
 # Sub-1GHz Wireless
 
+[Texas Instruments](https://www.youtube.com/watch?v=yQw2n_HJS2c)
+
 # ISM Industrial, Cientific and Medical
 
 - 315/915 MHz US, Canada, Mexico

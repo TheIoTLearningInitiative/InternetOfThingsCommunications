@@ -63,7 +63,6 @@
        * Brokers
            * [Mosquitto](documentation/Mosquitto.md)
            * VerneMQ
-           * Tbd
            * HiveMQ
        * [Security](documentation/MqttSecurity.md)
        * [Applications](documentation/MqttApplications.md)

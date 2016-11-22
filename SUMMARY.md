@@ -61,10 +61,10 @@
    * [MQ Telemetry Transport](documentation/MQTT.md)
        * [Mosca](documentation/Mosca.md)
        * [Mosquitto](documentation/Mosquitto.md)
+       * VerneMQ
        * [Security](documentation/MqttSecurity.md)
        * [Applications](documentation/MqttApplications.md)
        * [Laboratory](documentation/MqttLaboratory.md)
-       * VerneMQ
    * [Advanced Message Queuing Protocol](documentation/AMQP.md)
    * [Weave](documentation/Weave.md)
    * [Constrained Application Protocol](documentation/ConstrainedApplicationProtocol.md)

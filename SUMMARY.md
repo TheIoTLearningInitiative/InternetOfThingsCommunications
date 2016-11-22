@@ -60,12 +60,12 @@
    * [Industrial Protocols](documentation/IndustrialProtocols.md)
    * [MQ Telemetry Transport](documentation/MQTT.md)
        * [Mosca](documentation/Mosca.md)
+       * Brokers
        * [Mosquitto](documentation/Mosquitto.md)
        * VerneMQ
        * [Security](documentation/MqttSecurity.md)
        * [Applications](documentation/MqttApplications.md)
        * [Laboratory](documentation/MqttLaboratory.md)
-       * Brokers
    * [Advanced Message Queuing Protocol](documentation/AMQP.md)
    * [Weave](documentation/Weave.md)
    * [Constrained Application Protocol](documentation/ConstrainedApplicationProtocol.md)

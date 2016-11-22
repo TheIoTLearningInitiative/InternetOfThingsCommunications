@@ -61,8 +61,8 @@
    * [MQ Telemetry Transport](documentation/MQTT.md)
        * [Mosca](documentation/Mosca.md)
        * Brokers
+           * [Mosquitto](documentation/Mosquitto.md)
            * Tbd
-       * [Mosquitto](documentation/Mosquitto.md)
        * VerneMQ
        * [Security](documentation/MqttSecurity.md)
        * [Applications](documentation/MqttApplications.md)

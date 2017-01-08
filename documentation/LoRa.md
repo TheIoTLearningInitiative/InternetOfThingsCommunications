@@ -26,3 +26,7 @@ Tbd
 # Hardware
 
 - [MicroChip RN2483](http://www.microchip.com/wwwproducts/en/RN2483)
+
+# Loriot
+
+- https://loriot.io/

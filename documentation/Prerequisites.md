@@ -4,7 +4,7 @@
 
 - [Internet of Things Sensors](https://theiotlearninginitiative.gitbooks.io/internetofthingssensors/content/)
 
-# Pre-Work
+# Source Code
 
 ```sh
     root@edison:~# git clone https://github.com/YourGithubUserName/TheIoTLearningInitiative.git

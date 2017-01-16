@@ -4,7 +4,6 @@
 
 - [Internet of Things Sensors](https://theiotlearninginitiative.gitbooks.io/internetofthingssensors/content/)
 
-
 # Pre-Work
 
 ```sh

@@ -3,7 +3,7 @@
 # Equipment
 
 - Workstation (Linux, Windows, OS X)
-- Internet Connection
+- Internet Connection (No Proxy)
 - Micro USB Cable
 - Arduino 101
 - Linux Based Board Development (Intel Edison)

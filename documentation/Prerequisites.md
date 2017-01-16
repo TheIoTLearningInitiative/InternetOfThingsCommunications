@@ -1,6 +1,6 @@
 # Prerequisites
 
-# Training
+# Trainings
 
 
 

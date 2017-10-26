@@ -64,7 +64,7 @@
     * [Mosca](documentation/Mosca.md)
     * Brokers
       * [Mosquitto](documentation/Mosquitto.md)
-      * VerneMQ
+      * [VerneMQ](documentation/vernemq.md)
       * HiveMQ
     * [Security](documentation/MqttSecurity.md)
     * [Applications](documentation/MqttApplications.md)
